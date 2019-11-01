@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indie Maker Start - 让小产品的独立变现更简单</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 01 Nov 2019 08:43:43 +0800</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2019 08:43:43 +0800</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Monetize: Stripe</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/monetize/tool/stripe/</link>
+        <guid isPermaLink="true">http://localhost:4000/monetize/tool/stripe/</guid>
+        
+        
+        <category>monetize</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Monetize: PayPal</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/monetize/tool/paypal/</link>
+        <guid isPermaLink="true">http://localhost:4000/monetize/tool/paypal/</guid>
+        
+        
+        <category>monetize</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Monetize: Patreon</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/monetize/patreon/patreon/</link>
+        <guid isPermaLink="true">http://localhost:4000/monetize/patreon/patreon/</guid>
+        
+        
+        <category>monetize</category>
+        
+        <category>patreon</category>
+        
+      </item>
+    
+      <item>
+        <title>Monetize: Braintree</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/monetize/tool/braintree/</link>
+        <guid isPermaLink="true">http://localhost:4000/monetize/tool/braintree/</guid>
+        
+        
+        <category>monetize</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Launch: submit.co</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/launch/tool/submit/</link>
+        <guid isPermaLink="true">http://localhost:4000/launch/tool/submit/</guid>
+        
+        
+        <category>launch</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Launch: Reddit</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/launch/tool/reddit/</link>
+        <guid isPermaLink="true">http://localhost:4000/launch/tool/reddit/</guid>
+        
+        
+        <category>launch</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Launch: Product Hunt</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/launch/tool/producthunt/</link>
+        <guid isPermaLink="true">http://localhost:4000/launch/tool/producthunt/</guid>
+        
+        
+        <category>launch</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Launch: Mixpanel</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/launch/analyze/mixpanel/</link>
+        <guid isPermaLink="true">http://localhost:4000/launch/analyze/mixpanel/</guid>
+        
+        
+        <category>launch</category>
+        
+        <category>analyze</category>
+        
+      </item>
+    
+      <item>
+        <title>Launch: MailChimp</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/launch/tool/mailchimp/</link>
+        <guid isPermaLink="true">http://localhost:4000/launch/tool/mailchimp/</guid>
+        
+        
+        <category>launch</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+      <item>
+        <title>Launch: Hotjar</title>
+        <description>
+</description>
+        <pubDate>Wed, 30 Oct 2019 18:54:36 +0800</pubDate>
+        <link>http://localhost:4000/launch/tool/hotjar/</link>
+        <guid isPermaLink="true">http://localhost:4000/launch/tool/hotjar/</guid>
+        
+        
+        <category>launch</category>
+        
+        <category>tool</category>
+        
+      </item>
+    
+  </channel>
+</rss>
