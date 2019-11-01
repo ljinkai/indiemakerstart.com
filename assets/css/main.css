@@ -614,6 +614,8 @@ a.anchor{
 	line-height: 30px;
 	font-size: 16px;
 	cursor: pointer;
+	display: block;
+	color: black;
 }
 .block-nav-item:hover {
 	color: #ff5722;

@@ -78,13 +78,13 @@
     <div class="row">
         <div class="col-md-1">
             <ul class="block-nav">
-                <li class="block-nav-item">灵感</li>
-                <li class="block-nav-item">记录</li>
-                <li class="block-nav-item">分析</li>
+                <a class="block-nav-item" href="#tool">灵感</a>
+                <a class="block-nav-item" href="#record">记录</a>
+                <a class="block-nav-item" href="#analyze">分析</a>
             </ul>
         </div>
         <div class="col-md-11">
-            <div class="block-cat-title">灵感</div>
+            <div class="block-cat-title" id="tool">灵感</div>
             <div class="row">
                 
                 
@@ -335,7 +335,7 @@
                 
                 
             </div><!--/row -->
-            <div class="block-cat-title">记录</div>
+            <div class="block-cat-title" id="record">记录</div>
             <div class="row">
                 
                 
@@ -510,7 +510,7 @@
                 
                 
             </div><!--/row -->
-            <div class="block-cat-title">分析</div>
+            <div class="block-cat-title" id="analyze">分析</div>
             <div class="row">
                 
                 
@@ -667,9 +667,14 @@
                 <div class="hline-w"></div>
                 <p>
                     
-                        <a href="http://liujinkai.com" class="btn-social btn-outline">
+                        <a href="http://liujinkai.com" class="btn-social btn-outline" style="display: block;color: white;">
                           <!--<i class="fa fa-凯凯刘的博客" aria-hidden="true"></i>-->
                           凯凯刘的博客
+                        </a>
+                    
+                        <a href="http://www.geektomato.com" class="btn-social btn-outline" style="display: block;color: white;">
+                          <!--<i class="fa fa-极客番茄" aria-hidden="true"></i>-->
+                          极客番茄
                         </a>
                     
                 </p>
@@ -693,7 +698,10 @@
 
     gtag('config', 'UA-85358197-12');
 </script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script
+        src="https://code.jquery.com/jquery-2.2.4.min.js"
+        integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+        crossorigin="anonymous"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 <script src="/assets/js/retina-1.1.0.js"></script>
 <script src="/assets/js/jquery.hoverdir.js"></script>
