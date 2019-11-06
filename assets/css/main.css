@@ -617,7 +617,8 @@ a.anchor{
 	display: block;
 	color: black;
 }
-.block-nav-item:hover {
+
+.block-nav-item-active,.block-nav-item:hover {
 	color: #ff5722;
 }
 /** zsxq **/
@@ -631,3 +632,17 @@ a.anchor{
 	text-align: left;
 	color: white;
 }
+
+@media (max-width: 768px) {
+	.block-nav {
+		position: relative;
+	}
+	.block-nav-item {
+		display: inline;
+		background-color: lightgray;
+		border-radius: 6px;
+		padding: 3px 8px;
+		margin: 0px 5px;
+	}
+}
+
