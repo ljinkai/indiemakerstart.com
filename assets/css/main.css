@@ -107,7 +107,11 @@ a:focus {
 	font-weight: 900;
 	padding: 0px;
 }
-
+.navbar-brand-img {
+	width: 140px;
+	margin-top: 7px;
+	margin-left: 15px;
+}
 .navbar-header .navbar-brand {
 	color: white;
 }
@@ -532,25 +536,31 @@ a.anchor{
 	margin-top: 40px;
 }
 .makers .item {
-	padding: 15px 0;
 }
 .maker-item {
 	padding: 15px;
 }
-.maker-item a {
-	display: flex;
-	justify-content: left;
+.maker-item-img {
+	text-align: center;
+}
+.maker-item-body {
+	/*box-shadow: hsl(0, 0%, 80%) 0 0 16px;*/
+	/*padding: 10px 0px;*/
+	margin-right: 10px;
 }
 .maker-item a img {
 	width: 40px;
 	height: 40px;
 	border-radius: 100%;
 }
-.maker-item a h3 {
+.maker-item h3 {
 	padding: 0px;
 	margin: 0px;
 	color: black;
 	font-size: 16px;
+}
+.maker-item h3 a{
+	color: black;
 }
 .maker-item-con {
 	padding-left: 15px;
@@ -561,6 +571,15 @@ a.anchor{
 	overflow: hidden;
 	text-overflow: ellipsis;
 	color: #8f8f8f;
+}
+.maker-item-desc a {
+	color: #8f8f8f;
+}
+.maker-title-org {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	color: grey;
 }
 /** block **/
 .block {}
@@ -583,7 +602,8 @@ a.anchor{
 }
 .block-inner {
 	margin-bottom: 20px;
-	margin-right: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 .block-img {
 	width: 100%;
@@ -595,8 +615,13 @@ a.anchor{
 	font-size: 18px;
 	padding: 0px;
 	width: 100%;
+	position: relative;
 }
-.block-title-org {}
+.block-title-org {
+	position: absolute;
+	right: 15px;
+	top: 0px;
+}
 .block-desc {
 	font-size:14px;
 	color: grey;
@@ -607,7 +632,7 @@ a.anchor{
 }
 /** block nav **/
 .block-nav {
-	border-left: 4px #ff5722 solid;
+	border-left: 2px #ff5722 solid;
 	list-style: none;
 	position: fixed;
 	margin-top: 20px;
