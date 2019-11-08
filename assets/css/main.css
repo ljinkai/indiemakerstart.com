@@ -631,10 +631,13 @@ a.anchor{
 	margin-top: 10px;
 }
 /** block nav **/
+.block-nav-con {
+	position: fixed;
+
+}
 .block-nav {
 	border-left: 2px #ff5722 solid;
 	list-style: none;
-	position: fixed;
 	margin-top: 20px;
 	padding-left: 10px;
 }
@@ -662,7 +665,7 @@ a.anchor{
 }
 
 @media (max-width: 768px) {
-	.block-nav {
+	.block-nav-con {
 		position: relative;
 	}
 	.block-nav-item {
