@@ -3,10 +3,10 @@
   <channel>
     <title>Indie Maker Start - 让小产品的独立变现更简单</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Nov 2019 13:55:47 +0800</pubDate>
-    <lastBuildDate>Mon, 11 Nov 2019 13:55:47 +0800</lastBuildDate>
+    <link>http://www.indiemakerstart.com/</link>
+    <atom:link href="http://www.indiemakerstart.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 11 Nov 2019 14:03:23 +0800</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2019 14:03:23 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/youjin/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/youjin/</guid>
+        <link>http://www.indiemakerstart.com/maker/youjin/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/youjin/</guid>
         
         
         <category>maker</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/sergio/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/sergio/</guid>
+        <link>http://www.indiemakerstart.com/maker/sergio/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/sergio/</guid>
         
         
         <category>maker</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/ryan/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/ryan/</guid>
+        <link>http://www.indiemakerstart.com/maker/ryan/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/ryan/</guid>
         
         
         <category>maker</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/pierre/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/pierre/</guid>
+        <link>http://www.indiemakerstart.com/maker/pierre/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/pierre/</guid>
         
         
         <category>maker</category>
@@ -66,8 +66,8 @@
         <description>&lt;p&gt;hello&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/pat/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/pat/</guid>
+        <link>http://www.indiemakerstart.com/maker/pat/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/pat/</guid>
         
         
         <category>maker</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/liziran/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/liziran/</guid>
+        <link>http://www.indiemakerstart.com/maker/liziran/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/liziran/</guid>
         
         
         <category>maker</category>
@@ -195,8 +195,8 @@
                         ]&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/levelsio/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/levelsio/</guid>
+        <link>http://www.indiemakerstart.com/maker/levelsio/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/levelsio/</guid>
         
         
         <category>maker</category>
@@ -208,8 +208,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/john/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/john/</guid>
+        <link>http://www.indiemakerstart.com/maker/john/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/john/</guid>
         
         
         <category>maker</category>
@@ -221,8 +221,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/flowen/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/flowen/</guid>
+        <link>http://www.indiemakerstart.com/maker/flowen/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/flowen/</guid>
         
         
         <category>maker</category>
@@ -234,8 +234,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/felix/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/felix/</guid>
+        <link>http://www.indiemakerstart.com/maker/felix/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/felix/</guid>
         
         
         <category>maker</category>
