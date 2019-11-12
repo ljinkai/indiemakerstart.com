@@ -3,10 +3,10 @@
   <channel>
     <title>Indie Maker Start - 让小产品的独立变现更简单</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://www.indiemakerstart.com/</link>
-    <atom:link href="http://www.indiemakerstart.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Nov 2019 23:08:57 +0800</pubDate>
-    <lastBuildDate>Tue, 12 Nov 2019 23:08:57 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 13 Nov 2019 07:16:35 +0800</pubDate>
+    <lastBuildDate>Wed, 13 Nov 2019 07:16:35 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/youjin/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/youjin/</guid>
+        <link>http://localhost:4000/maker/youjin/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/youjin/</guid>
         
         
         <category>maker</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/sergio/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/sergio/</guid>
+        <link>http://localhost:4000/maker/sergio/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/sergio/</guid>
         
         
         <category>maker</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/ryan/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/ryan/</guid>
+        <link>http://localhost:4000/maker/ryan/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/ryan/</guid>
         
         
         <category>maker</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/pierre/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/pierre/</guid>
+        <link>http://localhost:4000/maker/pierre/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/pierre/</guid>
         
         
         <category>maker</category>
@@ -63,11 +63,191 @@
     
       <item>
         <title>Maker: Pat Walls</title>
-        <description>&lt;p&gt;hello&lt;/p&gt;
+        <description>&lt;p&gt;首先，回到2年前，那是2017年的年底，我在一个特别的地方。&lt;/p&gt;
+
+&lt;p&gt;我在从旧金山到纽约的飞机上，这个行程是6个小时。这一天是周日，我和家人、朋友正在进行一个周末的旅行，庆祝我妹妹的21岁生日。&lt;/p&gt;
+
+&lt;p&gt;这是一个漫长的飞行，尤其是你向东飞行会“失去”了3个小时(译者注：美国东西时差是东岸比西岸早3个小时)。此外，我已经好多天没有工作了(刚开始了一份新工作)，一直酗酒度日，我感觉有点负罪感。&lt;/p&gt;
+
+&lt;p&gt;我打开Kindle翻到Napoleon Hill写的《Think And Grow Rich》第1页，&lt;/p&gt;
+
+&lt;p&gt;我为什么会读这本书？因为我想修正我的人生。读的过程中，我不得不面对自己财务和职业生涯的不安全感。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;我有超过$25k的信用卡借款&lt;/li&gt;
+  &lt;li&gt;我有超过$40k的学生贷款&lt;/li&gt;
+  &lt;li&gt;我刚刚搬到纽约，生活成本超高&lt;/li&gt;
+  &lt;li&gt;我刚开始了一份全职工作，也不是我所热爱的&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;需要说明的是，我很感激只有这些问题 - 我意识到，与世界上大多数人正在经历的艰苦相比，它们毫无意义。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;我没有被自己打败 - 我有很强的意愿去改变一些事。&lt;/p&gt;
+
+&lt;p&gt;看了几页之后，我放下书，拿出我的手机写下了下面这些话：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-013201.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;你可能会想“这里面的内容好奇怪”&lt;/p&gt;
+
+&lt;p&gt;但是，在这本书里，Hill介绍了他如何走出困境并变的富有(对我来说，当下就是走出债务困境)&lt;/p&gt;
+
+&lt;h1 id=&quot;napoleon-hill的6步赚钱箴言&quot;&gt;Napoleon Hill的6步赚钱箴言&lt;/h1&gt;
+
+&lt;p&gt;把他说的一切可以浓缩为6步， 旨在帮助每个人达到自己期望的财务目标：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1、在你的脑海中明确你想要的&lt;strong&gt;确切金额&lt;/strong&gt;。 仅仅说“我想要足够的钱”是不够的，一定一定要具体的金额。&lt;/li&gt;
+  &lt;li&gt;2、&lt;strong&gt;明确具体做什么&lt;/strong&gt;以达到你所想要的金额（没有“不劳而获”这种事）&lt;/li&gt;
+  &lt;li&gt;3、&lt;strong&gt;明确一个具体日期&lt;/strong&gt;，在这个时间内容完成你的赚钱目标。&lt;/li&gt;
+  &lt;li&gt;4、&lt;strong&gt;建立一个可执行的计划&lt;/strong&gt;，一旦决定开始，不管你有没有准备好，一定要行动起来，不断的按计划执行。&lt;/li&gt;
+  &lt;li&gt;5、&lt;strong&gt;写出一份清晰、简单的声明&lt;/strong&gt;，说明你想要获得的金额，明确的截止时间，说明你打算做什么换取金钱，并清楚地描述你打算持续完成它的计划。&lt;/li&gt;
+  &lt;li&gt;6、&lt;strong&gt;每天两次大声朗读你的声明&lt;/strong&gt;，一次是在晚上睡觉之前，一次是在早上刚起来的时候。 当你阅读，看到并相信自己行动在获取这笔钱的过程之中。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;这次我真的写了下来&quot;&gt;这次我真的写了下来&lt;/h1&gt;
+
+&lt;p&gt;从飞机回家后，我在一张纸上写下了这份声明，用钉子钉在在了墙上，将它挂在了我的床边。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-IMG_3227.jpeg?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;但是我之前有多少次做过这样的事情？ 制定目标并没有坚持下去？ 数不胜数…&lt;/p&gt;
+
+&lt;p&gt;这一次，我&lt;strong&gt;明确&lt;/strong&gt;要按他的指示进行：&lt;/p&gt;
+
+&lt;p&gt;1、$ 10,000现金是我希望拥有的确切金额。 我的负债目前是6.5万美元，所以我需要获利7.5万美金才能完成目标。
+2、我怎么做达到这笔钱呢？ 如上所述，我必须（1）继续我的全职工作收入（2）遵循严格的预算控制（3）通过业余项目赚钱。
+3、我设定了截止日期：2019年1月1日。当时我写了这张纸条，现在已经过去了15个月。
+4、这是可以实现的吗？ 我需要一个明确的计划 - 所以我将所有的内容拆解到电子表格里，这是可能的（虽然一切都要完美的运行才可以达到）。
+5、按照Hill所说，我把它写在一张纸上。
+6、我没有每天两次大声的朗读，但是我把它挂在床边，每天早晚都会看到它。&lt;/p&gt;
+
+&lt;h1 id=&quot;我低下头开始工作&quot;&gt;我低下头开始工作&lt;/h1&gt;
+
+&lt;p&gt;我不会说我变成了一个不同的人，并在一夜之间有所转变。&lt;/p&gt;
+
+&lt;p&gt;我还是会停滞不前，但是当我慢慢转变的时候，这张纸还是会在那里。&lt;/p&gt;
+
+&lt;p&gt;我的房间里还挂着这张纸，起初对我来说实际上有点奇怪……&lt;/p&gt;
+
+&lt;p&gt;当朋友或家人进入我的房间时，我会感觉有些尴尬。&lt;/p&gt;
+
+&lt;p&gt;我对这些目标是有浅意识的。 我认为人们会觉得我很奇怪。 我想我是害怕失败，害怕成为真正的自己。&lt;/p&gt;
+
+&lt;p&gt;但随着时间的推移，人们还是知道了这件事。 这真的没什么大不了的。 虽然我没有在网上分享这个目标，但与朋友分享这个目标让它感觉更加的真实。&lt;/p&gt;
+
+&lt;h1 id=&quot;我认真的对待这张纸&quot;&gt;我认真的对待这张纸&lt;/h1&gt;
+
+&lt;p&gt;请记住，当我制定这些目标时，Starter Story这个网站甚至没有盈利，收入是0美元/月。&lt;/p&gt;
+
+&lt;p&gt;当时，3000美元/月对我来说似乎难以企及，但我知道毕竟我可以在互联网上研究和学习（要感谢&lt;a href=&quot;https://www.indiehackers.com/&quot;&gt;Indie Hackers&lt;/a&gt;，&lt;a href=&quot;https://levels.io/&quot;&gt;Pieter Levels&lt;/a&gt;等等）。&lt;/p&gt;
+
+&lt;p&gt;为了实现我的目标，我需要在接下来的15个月内达到平均每月3千美元。 因此，如果我在前几个月无法达到3千美元，我将不得不在以后的几个月内弥补它。&lt;/p&gt;
+
+&lt;p&gt;这不是很现实，但你必须设定大目标，如果能达到目标的一半我也会非常的开心。&lt;/p&gt;
+
+&lt;p&gt;我一点一点的慢慢的接近那个目标：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-Screenshot%202019-06-14%2018.28.19.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;还有什么可以让我接近1万美元的现金？ &lt;strong&gt;从省钱做起&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;我从未对金钱过度节省，我也不会这样做……但我也需要改变它。&lt;/p&gt;
+
+&lt;p&gt;我创建了电子表格来预测/预算并详细跟踪了我的花费。 我每两周记录分析一次，深入挖掘我的支出、收入，更好地了解我的财务状况。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-Screenshot%202019-06-14%2018.33.37.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;我之前的费用跟踪表。 红色的栏目是我每两周还的信用卡的钱。 我节省的钱都还了信用卡。 另外，你也可以看到纽约的消费有多高！&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-WX20190627-231742%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;注意 - 在这篇文章中，我不会介绍那一年发生的很多事情。 但如果你对业务方面的更多细节感兴趣，&lt;a href=&quot;https://patwalls.co/the-best-year-of-my-life-in-35-tweets&quot;&gt;请阅读此内容&lt;/a&gt;。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;长话短说，我只是继续朝着这个目标努力，获得一些小胜利，还清信用卡，通过独立创业和保持良好的习惯，在这个过程中学到了很多。&lt;/p&gt;
+
+&lt;h1 id=&quot;我没有达到1万美金&quot;&gt;我没有达到1万美金&lt;/h1&gt;
+
+&lt;p&gt;快进几个月…&lt;/p&gt;
+
+&lt;p&gt;随着目标日期的临近，我意识到不可能实现，甚至不可能接近1万美元这个目标。&lt;/p&gt;
+
+&lt;p&gt;但我对此并不感到难过。 我还有很多值得骄傲的事：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;到2018年8月，我的月收入达到了1千美元。&lt;/li&gt;
+  &lt;li&gt;到2018年9月，我还清了所有的信用卡债务。&lt;/li&gt;
+  &lt;li&gt;到2018年10月，我辞掉了我的全职工作，把我的全部精力放在了Starter Story和24 Hour Startup这个两个产品上。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;所有这些都是我的第一次成就。&lt;/p&gt;
+
+&lt;p&gt;虽然我距离我的1万美元现金目标仍然很远，表格里仍然是红色的，我确信那张小纸条的驱动比我什么都不做更能让我接近目标。&lt;/p&gt;
+
+&lt;h1 id=&quot;然后它发生了差不多&quot;&gt;然后它发生了（差不多）&lt;/h1&gt;
+
+&lt;p&gt;然后，在2018年11月下旬，我收到了赞助商的消息，他们希望在明年独家赞助整个Starter Story网站！&lt;/p&gt;
+
+&lt;p&gt;这从未出现在“计划”中，但我在这一点上也学到了一点，就是我再也无法预测这种事情。&lt;/p&gt;
+
+&lt;p&gt;我在2017年每月0美元时候的愿景，与实际实现的不同（例如，我也不知道我将在做a startup in 24 hours）。&lt;/p&gt;
+
+&lt;p&gt;唯一保持不变的是我投入到工作中并试图接近这个目标。&lt;/p&gt;
+
+&lt;p&gt;由于现金是预先支付的，它让我进入了“积极的净值”领域。 它让我获得了5000美元的现金，仅比我的目标减少了5,000美元！&lt;/p&gt;
+
+&lt;p&gt;我是如此接近，但在那个时刻，这不是达到1万美元的目标的问题。 我感到很惊讶于如此的接近我的目标，真是让人开心。&lt;/p&gt;
+
+&lt;h1 id=&quot;然后它确实发生了&quot;&gt;然后它确实发生了&lt;/h1&gt;
+
+&lt;p&gt;果然，运气又来了，而这次它还是个大的。&lt;/p&gt;
+
+&lt;p&gt;我之前的同事发短信给我说，我们过去工作5年的创业公司刚刚申请上市。 当我离开公司时，我购买了一些股票期权。&lt;/p&gt;
+
+&lt;p&gt;这让我感到意外，因为我离开公司已经有很长一段时间了，我认为它不会发生。&lt;/p&gt;
+
+&lt;p&gt;但是，两周之后，他们已经在纽约证券交易所敲响了钟声。&lt;/p&gt;
+
+&lt;p&gt;就在那一刻，我不仅达到了1万美元的目标，而且比我想象的还要大得多。&lt;/p&gt;
+
+&lt;p&gt;我翻包找到了那张纸，这是我生命中最好的感受之一。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;注意：股票期权/ IPO几乎是100％的运气，所以很明显，我并不吹牛将这归因于我自己的成功。 但是，我确实认为这显示了努力工作+运气的力量。 我努力工作以获得5千美元，然后这真是锦上添花。&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;我学到了什么&quot;&gt;我学到了什么？&lt;/h1&gt;
+
+&lt;p&gt;想象，想象，想象&lt;/p&gt;
+
+&lt;p&gt;你随着时间的推移想象的东西自然会成为现实。&lt;/p&gt;
+
+&lt;p&gt;如果你想象自己跑步和完成马拉松比赛，你就会做到。 如果你想象自己获得提升，你也将获得它。&lt;/p&gt;
+
+&lt;p&gt;但它也可能走向另一条路。&lt;/p&gt;
+
+&lt;p&gt;如果你不敢想象你的业余项目赚钱，那么它就不会神奇地变的盈利。 如果你想象一个关系或约会变得糟糕，那么它也会。 我在许多方面犯了负面想象的错误。&lt;/p&gt;
+
+&lt;p&gt;说出你的目标，然后将它们乘以3。如果您认为1年后可以赚1千美元/月，那么请将1和1替换为3或5，甚至10。&lt;/p&gt;
+
+&lt;p&gt;因为如果我将我的原定目标设定为每月1千美元，那么我将永远不会达到3千。 如果我将目标设定为1万美元，我可能也会达到这个目标。&lt;/p&gt;
+
+&lt;p&gt;如果你的想象就是天花板，那么你将无法突破它。&lt;/p&gt;
+
+&lt;p&gt;而我学到的另一件事是什么？ 如果你努力工作，坚持不懈，做诚实的工作，就会发生意想不到的神奇事情 - 这需要一些时间。&lt;/p&gt;
+
+&lt;p&gt;这就是一张小纸片如何改变了我的人生。&lt;/p&gt;
+
+&lt;p&gt;有趣的是，在飞机上写完那段笔记之后，我拿起书，只读了几页就感到无聊。&lt;/p&gt;
+
+&lt;p&gt;其余的说什么并不重要 - 因为这正是我所需要的！ 致敬Napoleon Hill :)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;此文是一篇译文，也是「IndieMaker独立变现」人物志系列文章之一
+原作者：Pat Walls，一名优秀的独立创业者，产品：&lt;a href=&quot;https://www.starterstory.com/&quot;&gt;https://www.starterstory.com/&lt;/a&gt;
+英文原文：https://patwalls.co/how-a-little-piece-of-paper-changed-my-life&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/pat/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/pat/</guid>
+        <link>http://localhost:4000/maker/pat/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/pat/</guid>
         
         
         <category>maker</category>
@@ -79,8 +259,8 @@
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/liziran/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/liziran/</guid>
+        <link>http://localhost:4000/maker/liziran/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/liziran/</guid>
         
         
         <category>maker</category>
@@ -89,114 +269,107 @@
     
       <item>
         <title>Maker: Levels</title>
-        <description>&lt;p&gt;list: [
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-levelsio.png?imageView2/2/w/100”,
-                                “link”: “https://levels.io/”,
-                                “title”: “Levels”,
-                                “desc”: “I’m the maker of Nomad List.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-pat.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/thepatwalls”,
-                                “title”: “Pat Walls”,
-                                “desc”: “Rather not talk about it just do that shit!”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-liziran.jpg?imageView2/2/w/100”,
-                                “link”: “https://www.youtube.com/channel/UCgLUl1WDoDXUtxPaZeSZHsw”,
-                                “title”: “李自然说”,
-                                “desc”: “有趣的灵魂，聊科技人文。”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-charles.jpg?imageView2/2/w/100”,
-                                “link”: “https://charlesngo.com/”,
-                                “title”: “Charles”,
-                                “desc”: “I teach people how to create a business online using affiliate marketing.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-dan.jpg?imageView2/2/w/100”,
-                                “link”: “https://www.youtube.com/channel/UCs_6DXZROU29pLvgQdCx4Ww”,
-                                “title”: “Dan Lok”,
-                                “desc”: “After 13 failed businesses, Dan finally became a self-made millionaire at age 27 and multi-millionaire by age 30.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-pierre.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/pierregillesl”,
-                                “title”: “Pierre-Gilles Leymarie”,
-                                “desc”: “Indie Maker Founder of @GladysAssistant Digital Nomad”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-ben.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/bentossell”,
-                                “title”: “Ben Tossell”,
-                                “desc”: “I make things without code, and teach others how.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-arthur.jpg?imageView2/2/w/100”,
-                                “link”: “https://arthuryeti.com/”,
-                                “title”: “Arthur”,
-                                “desc”: “ I am a solopreneur who’s traveling the world.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-sergio.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/matteing”,
-                                “title”: “Sergio Mattei”,
-                                “desc”: “ I make products people love.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-felix.jpg?imageView2/2/w/100”,
-                                “link”: “https://krausefx.com/”,
-                                “title”: “Felix Krause”,
-                                “desc”: “Creator of http://fastlane.tools &amp;amp; http://iOS-factor.com”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-ryan.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/rrhoover”,
-                                “title”: “Ryan Hoover”,
-                                “desc”: “Founder of @ProductHunt, @WeekendFund investor.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-dereksivers.jpg?imageView2/2/w/100”,
-                                “link”: “https://sivers.org/”,
-                                “title”: “Derek Sivers”,
-                                “desc”: “Writer, programmer, avid student of life.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-youjin.jpg?imageView2/2/w/100”,
-                                “link”: “https://youjin.do/”,
-                                “title”: “Youjin Do”,
-                                “desc”: “A creative maker, documentary director and published author.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-flowen.jpg?imageView2/2/w/100”,
-                                “link”: “https://www.flowen.me/”,
-                                “title”: “Flowen”,
-                                “desc”: “I create performant, accessible websites and UI with beautiful animation.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-andrey.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/andreyazimov”,
-                                “title”: “Andrey  Azimov”,
-                                “desc”: “I create performant, accessible websites and UI with beautiful animation.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-john.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/johnonolan”,
-                                “title”: “John O’Nolan”,
-                                “desc”: “Founder @Ghost - Publishing, open source, independent business.”
-                            },
-                            {
-                                “img”: “http://qiniu.gafata.com/2019-06-01-courtland.jpg?imageView2/2/w/100”,
-                                “link”: “https://twitter.com/csallen”,
-                                “title”: “Courtland Allen”,
-                                “desc”: “@IndieHackers at @stripe”
-                            }
-                        ]&lt;/p&gt;
+        <description>&lt;p&gt;Pieter Levels 是一位数字游民，从2014年开始做过几个产品：PlayMyInbox、GoFuckingDoIt、Tubelytics、NomadList 。&lt;/p&gt;
+
+&lt;p&gt;其中NomadList算是最成功的一个，Levels在网站上公开了NomadList这个网站上的所有的收入情况，从2014年到2019年的6月份，NomadList的总收入是$1095300(约750万人民币左右)。&lt;/p&gt;
+
+&lt;p&gt;下面就给给大家介绍一下Levels这位牛人, 他是怎样一个人把NomadList做到从0到750万的网站呢？&lt;/p&gt;
+
+&lt;h2 id=&quot;起步&quot;&gt;起步&lt;/h2&gt;
+
+&lt;p&gt;Levels去了世界上很多地方，遇到了很多的自由职业者，远程工作者，就想到如果有一个对远程工作者友好的导航站，是能够帮助到他们的，就想尝试这个小众市场。&lt;/p&gt;
+
+&lt;p&gt;一开始想弄一个简单的城市列表，选出一些适合自由职业者的城市。他知道靠自己收集不了那么多的城市。他需要验证这种模式是否可行，没有上来就建一个网站，而是在Twitter上用Google spreadsheet收集一些数据，看用户是否这些感兴趣。&lt;/p&gt;
+
+&lt;p&gt;Levels对大家的反馈惊着了，因为除了填写那些数据之外，用户还增加了很多内容，比如是否安全，咖啡馆密度，对女同性恋是否友好等选项。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-10-Screenshot-2014-08-16-16.24.28-1024x797.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;建站&quot;&gt;建站&lt;/h2&gt;
+
+&lt;p&gt;基于良好的反馈，Levels开始了网站的设计开发。听朋友的建议，在 RemoteList和NomadList这个2个名字中间选择了Nomad List。参考了ProductHunt和BetaList的网站风格，做成了最初的版本。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-07-14-18.00.00-1024x738.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-17.24.25-1024x600.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;他持续的更新一些功能，发现估算当地的生活成本是很重要的因素，每天的生活消费、住宿费用等都是基本的开销，Levels把这些估算加到了网站上。并用了非常简单的计算来给城市做了排行，给每个城市打上分数，因子包括：生活成本、天气等。&lt;/p&gt;
+
+&lt;h2 id=&quot;意外上线&quot;&gt;意外上线&lt;/h2&gt;
+
+&lt;p&gt;2014年的6月24日，twitter上发布了收集数据的链接。7月29日，Levels在做服务器的nginx配置的时候，上传了nginx.conf文件，结果就上线了。直到有很多人在twitter上发消息，Levels才知道已经在线可以访问了。在不知道的情况下，被人提交到了Product Hunt上。Levels本来是要过些天才发布上线，不成想被很多人转发。这个产品的上线完全是个意外。&lt;/p&gt;
+
+&lt;h2 id=&quot;发生了什么&quot;&gt;发生了什么？&lt;/h2&gt;
+
+&lt;p&gt;让人意想不到，之后Nomad List 已经冲到了Product Hunt的第一名&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.26.53-1024x142.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;再之后，Levels在Hacker News上发布了消息，之后就炸开了。也冲到了第一的位置。Hacker News带来了4倍于Product Hunt的访问，Hacker News有50000的独立访问， Product Hun 有12000的独立访问。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-07-31-23.14.39-1024x102.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Levels从来没有想过会被那么多的媒体报道，Forbes 、Business Insider 、Inc.com、 TheNextWeb、LifeHacker 这些媒体都在报道Nomad List。&lt;/p&gt;
+
+&lt;h2 id=&quot;数据表现&quot;&gt;数据表现&lt;/h2&gt;
+
+&lt;p&gt;那2周的时间里的用户访问情况看起来是这样的&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.41.57-1024x718.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;让Levels高兴的是，上线之后，用户并没有全部离开，而是保持每天3k的UV， 5k的PV。他同时把用户引导到了Twitter上和LinkIn上，粉丝也实现了爆发式的增长。&lt;/p&gt;
+
+&lt;h2 id=&quot;第一天就有收益&quot;&gt;第一天就有收益&lt;/h2&gt;
+
+&lt;p&gt;在发布的24小时里，Automattic发来了邮件，称想合作，很顺利，第一天，就有了收益。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.53.11x-1024x344.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.56.10-1024x307.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;之后Levels收到了很多的广告赞助合作的消息，但是他并不打算用AdSense, 因为他觉得那样很丑，影响用户的体验。虽然赚钱，但是他还是要把注意力放在长期价值上，不会因为短期收益而损害网站的核心价值。&lt;/p&gt;
+
+&lt;p&gt;为了将来和用户更好的连接，沉淀用户，Levels很快增加了订阅功能，2周的时间里有2,500左右的用户订阅了，大概5%的订阅率。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-20.07.09x-1024x237.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;探索商业模型&quot;&gt;探索商业模型&lt;/h2&gt;
+
+&lt;p&gt;Levels有2种商业模式想尝试，1）售卖城市指南类的内容，比如哪里工作，那地方是否安全，怎样和其他数字游民见面，怎样合法的注册公司等等 2）提供工具包，比如在去某个地方之前，你需要SIM卡，工作空间，酒店，交通卡等等。&lt;/p&gt;
+
+&lt;p&gt;为了找到真实的用户需求，找到合适的方向，他向2000个用户发送了征询意见的邮件，附上了Google Doc的收集问题链接。有400个回答，50封邮件回复。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-21.17.06-1024x642.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;呼声最高的就是“数字游民生存指南”。Levels快速的响应了其它的需求，增加了100个城市，独立的城市页和过滤选择等。&lt;/p&gt;
+
+&lt;p&gt;并开始编辑Chiang Mai, Bangkok and Bali这几个优先城市的“数字游民生存指南”，定价为$10 或者 $25&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-21.01.57-1024x558.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;同时，NomadKit捆绑（无酒店住宿）的价格在50美元左右。$10的SIM卡，“数字游民生存指南”$10, 共享空间推广后可免费使用1天。所以利润可以在60%。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-21.02.05-1024x594.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;现在，NomadList上的功能变的越来越丰富，除了城市的推荐信息，还有交流论坛，远程工作招聘，广告商发布等等功能，用户的粘度越来越高，Levels的收入也越来越多。&lt;/p&gt;
+
+&lt;h2 id=&quot;think-big&quot;&gt;Think Big&lt;/h2&gt;
+
+&lt;p&gt;在商业模式上面，Levels觉得还可以想的再大点。很多人已经受够了大城市的拥堵、空气污染、生活成本的不断升高。人们想做改变，想更自由的生活。人们未来很可能会有大块的时间在世界各地进行工作，更好的平衡工作和生活。他想在这个方向上继续前进，围绕这方面建立个公司，看看能到达哪里。&lt;/p&gt;
+
+&lt;p&gt;好了，以上就是Pieter Levels做NomadList的过程。像这样的Indie Maker人物志以后会持续的分享给大家。&lt;/p&gt;
+
+&lt;p&gt;NomadList看似突然爆发的过程，其实是Levels的一直的尝试的结果，他做过在线直播敲代码，曾经尝试12个月做12个小产品，直到做到第5个才确定NomadList有很好的前景，决定专心做这个产品。从这里面我觉得有几点是值得学习的：&lt;/p&gt;
+
+&lt;p&gt;1、顺应趋势，找到小众市场做产品，要敢于不断的尝试
+2、最小化验证用户需求，在验证前不要盲目的做产品
+3、和用户建立连接，响应用户需求
+4、提供用户长期价值，不要为了短期利益损害用户
+5、建立变现模型，保证持续的发展&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/levelsio/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/levelsio/</guid>
+        <link>http://localhost:4000/maker/levelsio/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/levelsio/</guid>
         
         
         <category>maker</category>
@@ -322,8 +495,8 @@ Github地址：https://github.com/TryGhost/Ghost
 &lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/john/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/john/</guid>
+        <link>http://localhost:4000/maker/john/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/john/</guid>
         
         
         <category>maker</category>
@@ -335,8 +508,8 @@ Github地址：https://github.com/TryGhost/Ghost
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/flowen/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/flowen/</guid>
+        <link>http://localhost:4000/maker/flowen/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/flowen/</guid>
         
         
         <category>maker</category>
@@ -348,8 +521,8 @@ Github地址：https://github.com/TryGhost/Ghost
         <description>
 </description>
         <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/maker/felix/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/felix/</guid>
+        <link>http://localhost:4000/maker/felix/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/felix/</guid>
         
         
         <category>maker</category>
