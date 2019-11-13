@@ -319,7 +319,7 @@ a:focus {
 #twrap {
     background: url(../img/t-back.jpg) no-repeat center top;
     position: relative;
-    margin-top: 0px;
+    margin-top: 20px;
 	padding-top:30px;
 	text-align:center;
 	background-attachment: relative;
@@ -525,6 +525,11 @@ a.anchor{
 	margin: 0px auto;
 }
 .home-block-more {
+	float: right;
+	font-size: 14px;
+	line-height: 39px;
+	display: block;
+	color: black;
 }
 .home-article-link {
 	font-size: 16px;
@@ -641,9 +646,9 @@ a.anchor{
 	margin-left: 10px;
 }
 .block-img {
-	width: 100%;
+	width: 80px;
 	height: 80px;
-	background-size: 100%;
+	background-size: cover;
 	background-position: center;
 }
 .block-title {
@@ -663,7 +668,7 @@ a.anchor{
 	height: 40px;
 	overflow: hidden;
 	padding: 0px 0px;
-	margin-top: 10px;
+	margin-top: 0px;
 	line-height: 20px;
 }
 /** block nav **/

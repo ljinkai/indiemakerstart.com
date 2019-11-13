@@ -5,527 +5,200 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Nov 2019 07:16:35 +0800</pubDate>
-    <lastBuildDate>Wed, 13 Nov 2019 07:16:35 +0800</lastBuildDate>
+    <pubDate>Wed, 13 Nov 2019 23:11:56 +0800</pubDate>
+    <lastBuildDate>Wed, 13 Nov 2019 23:11:56 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Maker: Youjin Do</title>
-        <description>
-</description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/youjin/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/youjin/</guid>
-        
-        
-        <category>maker</category>
-        
-      </item>
-    
-      <item>
-        <title>Maker: Sergio Mattei</title>
-        <description>
-</description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/sergio/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/sergio/</guid>
-        
-        
-        <category>maker</category>
-        
-      </item>
-    
-      <item>
-        <title>Maker: Ryan Hoover</title>
-        <description>
-</description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/ryan/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/ryan/</guid>
-        
-        
-        <category>maker</category>
-        
-      </item>
-    
-      <item>
-        <title>Maker: Pierre-Gilles Leymarie</title>
-        <description>
-</description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/pierre/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/pierre/</guid>
-        
-        
-        <category>maker</category>
-        
-      </item>
-    
-      <item>
-        <title>Maker: Pat Walls</title>
-        <description>&lt;p&gt;首先，回到2年前，那是2017年的年底，我在一个特别的地方。&lt;/p&gt;
-
-&lt;p&gt;我在从旧金山到纽约的飞机上，这个行程是6个小时。这一天是周日，我和家人、朋友正在进行一个周末的旅行，庆祝我妹妹的21岁生日。&lt;/p&gt;
-
-&lt;p&gt;这是一个漫长的飞行，尤其是你向东飞行会“失去”了3个小时(译者注：美国东西时差是东岸比西岸早3个小时)。此外，我已经好多天没有工作了(刚开始了一份新工作)，一直酗酒度日，我感觉有点负罪感。&lt;/p&gt;
-
-&lt;p&gt;我打开Kindle翻到Napoleon Hill写的《Think And Grow Rich》第1页，&lt;/p&gt;
-
-&lt;p&gt;我为什么会读这本书？因为我想修正我的人生。读的过程中，我不得不面对自己财务和职业生涯的不安全感。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;我有超过$25k的信用卡借款&lt;/li&gt;
-  &lt;li&gt;我有超过$40k的学生贷款&lt;/li&gt;
-  &lt;li&gt;我刚刚搬到纽约，生活成本超高&lt;/li&gt;
-  &lt;li&gt;我刚开始了一份全职工作，也不是我所热爱的&lt;/li&gt;
+        <title>Build: Superfamous</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;自然抽象类图片&lt;/li&gt;
+  &lt;li&gt;完全免费&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;需要说明的是，我很感激只有这些问题 - 我意识到，与世界上大多数人正在经历的艰苦相比，它们毫无意义。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;我没有被自己打败 - 我有很强的意愿去改变一些事。&lt;/p&gt;
-
-&lt;p&gt;看了几页之后，我放下书，拿出我的手机写下了下面这些话：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-013201.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;你可能会想“这里面的内容好奇怪”&lt;/p&gt;
-
-&lt;p&gt;但是，在这本书里，Hill介绍了他如何走出困境并变的富有(对我来说，当下就是走出债务困境)&lt;/p&gt;
-
-&lt;h1 id=&quot;napoleon-hill的6步赚钱箴言&quot;&gt;Napoleon Hill的6步赚钱箴言&lt;/h1&gt;
-
-&lt;p&gt;把他说的一切可以浓缩为6步， 旨在帮助每个人达到自己期望的财务目标：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1、在你的脑海中明确你想要的&lt;strong&gt;确切金额&lt;/strong&gt;。 仅仅说“我想要足够的钱”是不够的，一定一定要具体的金额。&lt;/li&gt;
-  &lt;li&gt;2、&lt;strong&gt;明确具体做什么&lt;/strong&gt;以达到你所想要的金额（没有“不劳而获”这种事）&lt;/li&gt;
-  &lt;li&gt;3、&lt;strong&gt;明确一个具体日期&lt;/strong&gt;，在这个时间内容完成你的赚钱目标。&lt;/li&gt;
-  &lt;li&gt;4、&lt;strong&gt;建立一个可执行的计划&lt;/strong&gt;，一旦决定开始，不管你有没有准备好，一定要行动起来，不断的按计划执行。&lt;/li&gt;
-  &lt;li&gt;5、&lt;strong&gt;写出一份清晰、简单的声明&lt;/strong&gt;，说明你想要获得的金额，明确的截止时间，说明你打算做什么换取金钱，并清楚地描述你打算持续完成它的计划。&lt;/li&gt;
-  &lt;li&gt;6、&lt;strong&gt;每天两次大声朗读你的声明&lt;/strong&gt;，一次是在晚上睡觉之前，一次是在早上刚起来的时候。 当你阅读，看到并相信自己行动在获取这笔钱的过程之中。&lt;/li&gt;
+</description>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/superfamous/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/superfamous/</guid>
+        
+        
+        <category>build</category>
+        
+        <category>image</category>
+        
+      </item>
+    
+      <item>
+        <title>Build: StokPic</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;每2周会发送10张新的图片到你的邮箱&lt;/li&gt;
+  &lt;li&gt;生活类照片有数百张免费&lt;/li&gt;
+  &lt;li&gt;100%可免费商用&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h1 id=&quot;这次我真的写了下来&quot;&gt;这次我真的写了下来&lt;/h1&gt;
-
-&lt;p&gt;从飞机回家后，我在一张纸上写下了这份声明，用钉子钉在在了墙上，将它挂在了我的床边。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-IMG_3227.jpeg?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;但是我之前有多少次做过这样的事情？ 制定目标并没有坚持下去？ 数不胜数…&lt;/p&gt;
-
-&lt;p&gt;这一次，我&lt;strong&gt;明确&lt;/strong&gt;要按他的指示进行：&lt;/p&gt;
-
-&lt;p&gt;1、$ 10,000现金是我希望拥有的确切金额。 我的负债目前是6.5万美元，所以我需要获利7.5万美金才能完成目标。
-2、我怎么做达到这笔钱呢？ 如上所述，我必须（1）继续我的全职工作收入（2）遵循严格的预算控制（3）通过业余项目赚钱。
-3、我设定了截止日期：2019年1月1日。当时我写了这张纸条，现在已经过去了15个月。
-4、这是可以实现的吗？ 我需要一个明确的计划 - 所以我将所有的内容拆解到电子表格里，这是可能的（虽然一切都要完美的运行才可以达到）。
-5、按照Hill所说，我把它写在一张纸上。
-6、我没有每天两次大声的朗读，但是我把它挂在床边，每天早晚都会看到它。&lt;/p&gt;
-
-&lt;h1 id=&quot;我低下头开始工作&quot;&gt;我低下头开始工作&lt;/h1&gt;
-
-&lt;p&gt;我不会说我变成了一个不同的人，并在一夜之间有所转变。&lt;/p&gt;
-
-&lt;p&gt;我还是会停滞不前，但是当我慢慢转变的时候，这张纸还是会在那里。&lt;/p&gt;
-
-&lt;p&gt;我的房间里还挂着这张纸，起初对我来说实际上有点奇怪……&lt;/p&gt;
-
-&lt;p&gt;当朋友或家人进入我的房间时，我会感觉有些尴尬。&lt;/p&gt;
-
-&lt;p&gt;我对这些目标是有浅意识的。 我认为人们会觉得我很奇怪。 我想我是害怕失败，害怕成为真正的自己。&lt;/p&gt;
-
-&lt;p&gt;但随着时间的推移，人们还是知道了这件事。 这真的没什么大不了的。 虽然我没有在网上分享这个目标，但与朋友分享这个目标让它感觉更加的真实。&lt;/p&gt;
-
-&lt;h1 id=&quot;我认真的对待这张纸&quot;&gt;我认真的对待这张纸&lt;/h1&gt;
-
-&lt;p&gt;请记住，当我制定这些目标时，Starter Story这个网站甚至没有盈利，收入是0美元/月。&lt;/p&gt;
-
-&lt;p&gt;当时，3000美元/月对我来说似乎难以企及，但我知道毕竟我可以在互联网上研究和学习（要感谢&lt;a href=&quot;https://www.indiehackers.com/&quot;&gt;Indie Hackers&lt;/a&gt;，&lt;a href=&quot;https://levels.io/&quot;&gt;Pieter Levels&lt;/a&gt;等等）。&lt;/p&gt;
-
-&lt;p&gt;为了实现我的目标，我需要在接下来的15个月内达到平均每月3千美元。 因此，如果我在前几个月无法达到3千美元，我将不得不在以后的几个月内弥补它。&lt;/p&gt;
-
-&lt;p&gt;这不是很现实，但你必须设定大目标，如果能达到目标的一半我也会非常的开心。&lt;/p&gt;
-
-&lt;p&gt;我一点一点的慢慢的接近那个目标：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-Screenshot%202019-06-14%2018.28.19.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;还有什么可以让我接近1万美元的现金？ &lt;strong&gt;从省钱做起&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;我从未对金钱过度节省，我也不会这样做……但我也需要改变它。&lt;/p&gt;
-
-&lt;p&gt;我创建了电子表格来预测/预算并详细跟踪了我的花费。 我每两周记录分析一次，深入挖掘我的支出、收入，更好地了解我的财务状况。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-Screenshot%202019-06-14%2018.33.37.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;我之前的费用跟踪表。 红色的栏目是我每两周还的信用卡的钱。 我节省的钱都还了信用卡。 另外，你也可以看到纽约的消费有多高！&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-27-WX20190627-231742%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;注意 - 在这篇文章中，我不会介绍那一年发生的很多事情。 但如果你对业务方面的更多细节感兴趣，&lt;a href=&quot;https://patwalls.co/the-best-year-of-my-life-in-35-tweets&quot;&gt;请阅读此内容&lt;/a&gt;。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;长话短说，我只是继续朝着这个目标努力，获得一些小胜利，还清信用卡，通过独立创业和保持良好的习惯，在这个过程中学到了很多。&lt;/p&gt;
-
-&lt;h1 id=&quot;我没有达到1万美金&quot;&gt;我没有达到1万美金&lt;/h1&gt;
-
-&lt;p&gt;快进几个月…&lt;/p&gt;
-
-&lt;p&gt;随着目标日期的临近，我意识到不可能实现，甚至不可能接近1万美元这个目标。&lt;/p&gt;
-
-&lt;p&gt;但我对此并不感到难过。 我还有很多值得骄傲的事：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;到2018年8月，我的月收入达到了1千美元。&lt;/li&gt;
-  &lt;li&gt;到2018年9月，我还清了所有的信用卡债务。&lt;/li&gt;
-  &lt;li&gt;到2018年10月，我辞掉了我的全职工作，把我的全部精力放在了Starter Story和24 Hour Startup这个两个产品上。&lt;/li&gt;
+</description>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/stokpic/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/stokpic/</guid>
+        
+        
+        <category>build</category>
+        
+        <category>image</category>
+        
+      </item>
+    
+      <item>
+        <title>Build: Startup Stock</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;漂亮，高质量的关于Blogger、设计师、开发者&lt;/li&gt;
+  &lt;li&gt;完美适合技术类网站。大量的电脑、桌面、办公类图片&lt;/li&gt;
+  &lt;li&gt;100%可免费商用&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;所有这些都是我的第一次成就。&lt;/p&gt;
-
-&lt;p&gt;虽然我距离我的1万美元现金目标仍然很远，表格里仍然是红色的，我确信那张小纸条的驱动比我什么都不做更能让我接近目标。&lt;/p&gt;
-
-&lt;h1 id=&quot;然后它发生了差不多&quot;&gt;然后它发生了（差不多）&lt;/h1&gt;
-
-&lt;p&gt;然后，在2018年11月下旬，我收到了赞助商的消息，他们希望在明年独家赞助整个Starter Story网站！&lt;/p&gt;
-
-&lt;p&gt;这从未出现在“计划”中，但我在这一点上也学到了一点，就是我再也无法预测这种事情。&lt;/p&gt;
-
-&lt;p&gt;我在2017年每月0美元时候的愿景，与实际实现的不同（例如，我也不知道我将在做a startup in 24 hours）。&lt;/p&gt;
-
-&lt;p&gt;唯一保持不变的是我投入到工作中并试图接近这个目标。&lt;/p&gt;
-
-&lt;p&gt;由于现金是预先支付的，它让我进入了“积极的净值”领域。 它让我获得了5000美元的现金，仅比我的目标减少了5,000美元！&lt;/p&gt;
-
-&lt;p&gt;我是如此接近，但在那个时刻，这不是达到1万美元的目标的问题。 我感到很惊讶于如此的接近我的目标，真是让人开心。&lt;/p&gt;
-
-&lt;h1 id=&quot;然后它确实发生了&quot;&gt;然后它确实发生了&lt;/h1&gt;
-
-&lt;p&gt;果然，运气又来了，而这次它还是个大的。&lt;/p&gt;
-
-&lt;p&gt;我之前的同事发短信给我说，我们过去工作5年的创业公司刚刚申请上市。 当我离开公司时，我购买了一些股票期权。&lt;/p&gt;
-
-&lt;p&gt;这让我感到意外，因为我离开公司已经有很长一段时间了，我认为它不会发生。&lt;/p&gt;
-
-&lt;p&gt;但是，两周之后，他们已经在纽约证券交易所敲响了钟声。&lt;/p&gt;
-
-&lt;p&gt;就在那一刻，我不仅达到了1万美元的目标，而且比我想象的还要大得多。&lt;/p&gt;
-
-&lt;p&gt;我翻包找到了那张纸，这是我生命中最好的感受之一。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;注意：股票期权/ IPO几乎是100％的运气，所以很明显，我并不吹牛将这归因于我自己的成功。 但是，我确实认为这显示了努力工作+运气的力量。 我努力工作以获得5千美元，然后这真是锦上添花。&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;我学到了什么&quot;&gt;我学到了什么？&lt;/h1&gt;
-
-&lt;p&gt;想象，想象，想象&lt;/p&gt;
-
-&lt;p&gt;你随着时间的推移想象的东西自然会成为现实。&lt;/p&gt;
-
-&lt;p&gt;如果你想象自己跑步和完成马拉松比赛，你就会做到。 如果你想象自己获得提升，你也将获得它。&lt;/p&gt;
-
-&lt;p&gt;但它也可能走向另一条路。&lt;/p&gt;
-
-&lt;p&gt;如果你不敢想象你的业余项目赚钱，那么它就不会神奇地变的盈利。 如果你想象一个关系或约会变得糟糕，那么它也会。 我在许多方面犯了负面想象的错误。&lt;/p&gt;
-
-&lt;p&gt;说出你的目标，然后将它们乘以3。如果您认为1年后可以赚1千美元/月，那么请将1和1替换为3或5，甚至10。&lt;/p&gt;
-
-&lt;p&gt;因为如果我将我的原定目标设定为每月1千美元，那么我将永远不会达到3千。 如果我将目标设定为1万美元，我可能也会达到这个目标。&lt;/p&gt;
-
-&lt;p&gt;如果你的想象就是天花板，那么你将无法突破它。&lt;/p&gt;
-
-&lt;p&gt;而我学到的另一件事是什么？ 如果你努力工作，坚持不懈，做诚实的工作，就会发生意想不到的神奇事情 - 这需要一些时间。&lt;/p&gt;
-
-&lt;p&gt;这就是一张小纸片如何改变了我的人生。&lt;/p&gt;
-
-&lt;p&gt;有趣的是，在飞机上写完那段笔记之后，我拿起书，只读了几页就感到无聊。&lt;/p&gt;
-
-&lt;p&gt;其余的说什么并不重要 - 因为这正是我所需要的！ 致敬Napoleon Hill :)&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;此文是一篇译文，也是「IndieMaker独立变现」人物志系列文章之一
-原作者：Pat Walls，一名优秀的独立创业者，产品：&lt;a href=&quot;https://www.starterstory.com/&quot;&gt;https://www.starterstory.com/&lt;/a&gt;
-英文原文：https://patwalls.co/how-a-little-piece-of-paper-changed-my-life&lt;/p&gt;
-&lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/pat/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/pat/</guid>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/startup/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/startup/</guid>
         
         
-        <category>maker</category>
+        <category>build</category>
+        
+        <category>image</category>
         
       </item>
     
       <item>
-        <title>Maker: 李自然说</title>
-        <description>
+        <title>Build: SplitShire</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;超过900多张的高质量，高分辨率图片&lt;/li&gt;
+  &lt;li&gt;免费的视频也有&lt;/li&gt;
+  &lt;li&gt;抽象类和肖像类图片非常吸引人&lt;/li&gt;
+  &lt;li&gt;免费可商用&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/liziran/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/liziran/</guid>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/splitshire/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/splitshire/</guid>
         
         
-        <category>maker</category>
+        <category>build</category>
+        
+        <category>image</category>
         
       </item>
     
       <item>
-        <title>Maker: Levels</title>
-        <description>&lt;p&gt;Pieter Levels 是一位数字游民，从2014年开始做过几个产品：PlayMyInbox、GoFuckingDoIt、Tubelytics、NomadList 。&lt;/p&gt;
-
-&lt;p&gt;其中NomadList算是最成功的一个，Levels在网站上公开了NomadList这个网站上的所有的收入情况，从2014年到2019年的6月份，NomadList的总收入是$1095300(约750万人民币左右)。&lt;/p&gt;
-
-&lt;p&gt;下面就给给大家介绍一下Levels这位牛人, 他是怎样一个人把NomadList做到从0到750万的网站呢？&lt;/p&gt;
-
-&lt;h2 id=&quot;起步&quot;&gt;起步&lt;/h2&gt;
-
-&lt;p&gt;Levels去了世界上很多地方，遇到了很多的自由职业者，远程工作者，就想到如果有一个对远程工作者友好的导航站，是能够帮助到他们的，就想尝试这个小众市场。&lt;/p&gt;
-
-&lt;p&gt;一开始想弄一个简单的城市列表，选出一些适合自由职业者的城市。他知道靠自己收集不了那么多的城市。他需要验证这种模式是否可行，没有上来就建一个网站，而是在Twitter上用Google spreadsheet收集一些数据，看用户是否这些感兴趣。&lt;/p&gt;
-
-&lt;p&gt;Levels对大家的反馈惊着了，因为除了填写那些数据之外，用户还增加了很多内容，比如是否安全，咖啡馆密度，对女同性恋是否友好等选项。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-10-Screenshot-2014-08-16-16.24.28-1024x797.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;建站&quot;&gt;建站&lt;/h2&gt;
-
-&lt;p&gt;基于良好的反馈，Levels开始了网站的设计开发。听朋友的建议，在 RemoteList和NomadList这个2个名字中间选择了Nomad List。参考了ProductHunt和BetaList的网站风格，做成了最初的版本。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-07-14-18.00.00-1024x738.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-17.24.25-1024x600.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;他持续的更新一些功能，发现估算当地的生活成本是很重要的因素，每天的生活消费、住宿费用等都是基本的开销，Levels把这些估算加到了网站上。并用了非常简单的计算来给城市做了排行，给每个城市打上分数，因子包括：生活成本、天气等。&lt;/p&gt;
-
-&lt;h2 id=&quot;意外上线&quot;&gt;意外上线&lt;/h2&gt;
-
-&lt;p&gt;2014年的6月24日，twitter上发布了收集数据的链接。7月29日，Levels在做服务器的nginx配置的时候，上传了nginx.conf文件，结果就上线了。直到有很多人在twitter上发消息，Levels才知道已经在线可以访问了。在不知道的情况下，被人提交到了Product Hunt上。Levels本来是要过些天才发布上线，不成想被很多人转发。这个产品的上线完全是个意外。&lt;/p&gt;
-
-&lt;h2 id=&quot;发生了什么&quot;&gt;发生了什么？&lt;/h2&gt;
-
-&lt;p&gt;让人意想不到，之后Nomad List 已经冲到了Product Hunt的第一名&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.26.53-1024x142.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;再之后，Levels在Hacker News上发布了消息，之后就炸开了。也冲到了第一的位置。Hacker News带来了4倍于Product Hunt的访问，Hacker News有50000的独立访问， Product Hun 有12000的独立访问。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-07-31-23.14.39-1024x102.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Levels从来没有想过会被那么多的媒体报道，Forbes 、Business Insider 、Inc.com、 TheNextWeb、LifeHacker 这些媒体都在报道Nomad List。&lt;/p&gt;
-
-&lt;h2 id=&quot;数据表现&quot;&gt;数据表现&lt;/h2&gt;
-
-&lt;p&gt;那2周的时间里的用户访问情况看起来是这样的&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.41.57-1024x718.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;让Levels高兴的是，上线之后，用户并没有全部离开，而是保持每天3k的UV， 5k的PV。他同时把用户引导到了Twitter上和LinkIn上，粉丝也实现了爆发式的增长。&lt;/p&gt;
-
-&lt;h2 id=&quot;第一天就有收益&quot;&gt;第一天就有收益&lt;/h2&gt;
-
-&lt;p&gt;在发布的24小时里，Automattic发来了邮件，称想合作，很顺利，第一天，就有了收益。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.53.11x-1024x344.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-19.56.10-1024x307.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;之后Levels收到了很多的广告赞助合作的消息，但是他并不打算用AdSense, 因为他觉得那样很丑，影响用户的体验。虽然赚钱，但是他还是要把注意力放在长期价值上，不会因为短期收益而损害网站的核心价值。&lt;/p&gt;
-
-&lt;p&gt;为了将来和用户更好的连接，沉淀用户，Levels很快增加了订阅功能，2周的时间里有2,500左右的用户订阅了，大概5%的订阅率。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-20.07.09x-1024x237.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;探索商业模型&quot;&gt;探索商业模型&lt;/h2&gt;
-
-&lt;p&gt;Levels有2种商业模式想尝试，1）售卖城市指南类的内容，比如哪里工作，那地方是否安全，怎样和其他数字游民见面，怎样合法的注册公司等等 2）提供工具包，比如在去某个地方之前，你需要SIM卡，工作空间，酒店，交通卡等等。&lt;/p&gt;
-
-&lt;p&gt;为了找到真实的用户需求，找到合适的方向，他向2000个用户发送了征询意见的邮件，附上了Google Doc的收集问题链接。有400个回答，50封邮件回复。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-21.17.06-1024x642.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;呼声最高的就是“数字游民生存指南”。Levels快速的响应了其它的需求，增加了100个城市，独立的城市页和过滤选择等。&lt;/p&gt;
-
-&lt;p&gt;并开始编辑Chiang Mai, Bangkok and Bali这几个优先城市的“数字游民生存指南”，定价为$10 或者 $25&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-21.01.57-1024x558.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;同时，NomadKit捆绑（无酒店住宿）的价格在50美元左右。$10的SIM卡，“数字游民生存指南”$10, 共享空间推广后可免费使用1天。所以利润可以在60%。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-06-09-Screenshot-2014-08-16-21.02.05-1024x594.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;现在，NomadList上的功能变的越来越丰富，除了城市的推荐信息，还有交流论坛，远程工作招聘，广告商发布等等功能，用户的粘度越来越高，Levels的收入也越来越多。&lt;/p&gt;
-
-&lt;h2 id=&quot;think-big&quot;&gt;Think Big&lt;/h2&gt;
-
-&lt;p&gt;在商业模式上面，Levels觉得还可以想的再大点。很多人已经受够了大城市的拥堵、空气污染、生活成本的不断升高。人们想做改变，想更自由的生活。人们未来很可能会有大块的时间在世界各地进行工作，更好的平衡工作和生活。他想在这个方向上继续前进，围绕这方面建立个公司，看看能到达哪里。&lt;/p&gt;
-
-&lt;p&gt;好了，以上就是Pieter Levels做NomadList的过程。像这样的Indie Maker人物志以后会持续的分享给大家。&lt;/p&gt;
-
-&lt;p&gt;NomadList看似突然爆发的过程，其实是Levels的一直的尝试的结果，他做过在线直播敲代码，曾经尝试12个月做12个小产品，直到做到第5个才确定NomadList有很好的前景，决定专心做这个产品。从这里面我觉得有几点是值得学习的：&lt;/p&gt;
-
-&lt;p&gt;1、顺应趋势，找到小众市场做产品，要敢于不断的尝试
-2、最小化验证用户需求，在验证前不要盲目的做产品
-3、和用户建立连接，响应用户需求
-4、提供用户长期价值，不要为了短期利益损害用户
-5、建立变现模型，保证持续的发展&lt;/p&gt;
-
+        <title>Build: Stock Snap</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;每周更新数百张高质量摄影图片&lt;/li&gt;
+  &lt;li&gt;类似图片的推荐&lt;/li&gt;
+  &lt;li&gt;强大的搜索工具&lt;/li&gt;
+  &lt;li&gt;可按日期，流行，查看数，下载，喜欢等查询&lt;/li&gt;
+  &lt;li&gt;商业免费可用&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/levelsio/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/levelsio/</guid>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/snap/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/snap/</guid>
         
         
-        <category>maker</category>
+        <category>build</category>
+        
+        <category>image</category>
         
       </item>
     
       <item>
-        <title>Maker: John O'Nolan</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;此文是「IndieMaker独立变现」知识星球人物志系列之第11篇
-官网：http://www.indiemakerstart.com&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-08-j111.jpg?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;John O’Nolan是Ghost的创始人，从0开始到现在年收入170万美金的公司，公司有一个15人的远程工作团队。自己则一边旅行一边的工作生活，去过39个国家，400多个城市，而这种生活方式已经有差不多十年。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-08-WX20191108-133756.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;他INS上的图片每一张都非常的精美，都是他在旅途中的精彩瞬间。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-08-WX20191108-134621.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;http://qiniu.gafata.com/2019-11-08-WX20191108-134406.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;John O’Nolan不是一个会写代码的人，最初仅是一个网页设计师。能做到现在这些，John O’Nolan却是从零开始的，在一次2016年的采访中，John O’Nolan分享了自己的白手起家的经历，最后也谈到了自己的建议。采访内容如下：&lt;/p&gt;
-
-&lt;h1 id=&quot;请先介绍下自己的背景情况&quot;&gt;请先介绍下自己的背景情况&lt;/h1&gt;
-
-&lt;p&gt;大家好！ 👋🏻我的名字叫约翰·奥诺兰（John O’Nolan），我经营着一个非营利性技术基金会，为新闻工作者提供技术支持。 我们的主要产品称为Ghost，这是一个现代的开源发布平台。&lt;/p&gt;
-
-&lt;p&gt;在现在的内容发布环境中，有两个主要选择：（1）旧的，不太被重视的开放源代码平台，该平台已经老旧不堪，或者（2）全新的，令人惊奇的发布系统，这些系统完全专有且封闭。 Ghost做了结合，完全专注于新闻工作者和出版者的需求，是完全开源的。&lt;/p&gt;
-
-&lt;p&gt;大约4年前，我们在Kickstarter上获得30万美元支持启动了Ghost。 如今，这是一家可持续发展，健康，可持续的独立企业，拥有10个人的团队，年收入750,000美元，用户包括NASA，Square，Vevo，Sky News，Mozilla，Zappos等。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-07-ghost__features.jpg?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;是什么促使你做ghost这个产品的呢&quot;&gt;是什么促使你做Ghost这个产品的呢？&lt;/h1&gt;
-
-&lt;p&gt;Ghost诞生于对现有解决方案的不满。 在开始这个疯狂的旅程之前，我非常积极地为WordPress核心做出了贡献，我是UI组的副主管。 我看到WordPress从其不起眼的样子成长为如今的Blog平台，然后演变为功能完善的CMS，主要服务于商业/宣传网站。&lt;/p&gt;
-
-&lt;p&gt;不过，我一直很坚定地对WordPress如何用于发布和新闻业感兴趣。 因此，我想知道如果用现代技术重建WordPress，避开那些臃肿不堪的情况，而纯粹专注于一个用例，会是什么样子。 我在自己的博客中写下了自己的想法，并在大约1周的时间里被浏览了250,000次，因此我决定开始按自己的想法来实践。&lt;/p&gt;
-
-&lt;p&gt;当时，我的主要工作是一个自由职业的web设计师，我暂停了所有的客户工作以追求这个想法，并靠自己的积蓄为生。&lt;/p&gt;
-
-&lt;h1 id=&quot;你是如何做最初始版本的产品&quot;&gt;你是如何做最初始版本的产品？&lt;/h1&gt;
-
-&lt;p&gt;最初，《黑客新闻》（Hacker News）上的开发者有很多人提供询问并愿意提供帮助，但实际上却一无所获。 我有一天晚上给我最好的朋友Hannah Wolfe发了电子邮件，跟她抱怨这种情况，当时她迅速提出自己可以提供帮助。 大约24小时后，她给我发送了一封电子邮件，其中包含Ghost.zip附件，相比而言，这绝对是非常疯狂的。 我简直不敢相信她会写出这么快的代码并发送给我。从那时起我们就一直在合作！&lt;/p&gt;
-
-&lt;p&gt;在我的博客文章发布之后的接下来的3个月中，我们有了一个基本的原型为第二次发布做准备。 那时，我的邮件列表中大约有30,000个人，他们对最初的博客文章表达了浓厚的兴趣。 他们都说会用它。 接下来的一个问题是：他们会为此付费吗？ 为此，我去了Kickstarter。 如果我们能够从人们那里获得足够的验证，用户以实际的资助而帮助软件开发，那么我们就明确的知道将继续努力。&lt;/p&gt;
-
-&lt;p&gt;在Kickstarter上展示的MVP（“最小可行性产品”），只是让用户了解了我们想做出的样子：视频中显示的50％是伪造的。但这是一个真实的，可以正常运行的Node.js应用程序，其中大多数东西还都欠缺。 UI的大部分只是带有加载动画的屏幕截图。 我们知道，如果需要的话，我们可以对此进行编码，但是仅仅为了制作可能会失败的产品，而投入全部精力是没有意义的。所以我们做到了最低限度的产品演示！&lt;/p&gt;
-
-&lt;h1 id=&quot;你用什么市场策略找到用户并保持增长的&quot;&gt;你用什么市场策略找到用户并保持增长的？&lt;/h1&gt;
-
-&lt;p&gt;我们在Kickstarter上项目的初始目标约为30,000美元。 我们在11个小时内就达到了目标，最后通过Kickstarter筹集了大约30万美元，并在活动结束后筹集了50,000美元的赞助。&lt;/p&gt;
-
-&lt;p&gt;产品过程的每个步骤都随着项目的进展而建立了积极的听众。&lt;/p&gt;
-
-&lt;p&gt;我的博客有几千个订阅者，当我最初想法发布时，他们是第一个被通知的用户。该帖子有一封电子邮件注册表格，这个表格产生了约3万名订阅者，有兴趣了解这个产品变成现实，而这3万人是Kickstarter运动发起时第一批人。&lt;/p&gt;
-
-&lt;p&gt;当该产品发布时，围绕该广告系列的所有媒体和感兴趣的人进一步从3万增加到了约8万，因此当我们实际上是在最早博客文章发布大约一年后才推出该产品的第一个版本时，这些庞大的忠实听众正在等待听到有关它的消息。&lt;/p&gt;
-
-&lt;p&gt;结果就是，当我们最终发布时，我们在第1天获得了100,000多个注册。每一步都是下一步的基础&lt;/p&gt;
-
-&lt;p&gt;我们没有采用任何特别聪明的营销策略。 一切都很合乎逻辑。 告诉人们你将要做什么，提供让他们参与其中并及时了解所发生情况的方法，然后重复。 我们试图使所有内容尽可能简单，诚实和高质量。&lt;/p&gt;
-
-&lt;p&gt;人们被垃圾邮件营销策略所淹没。 有时，根据我的经验，诚实和低调会赢得更多的尊重和兴趣。&lt;/p&gt;
-
-&lt;h1 id=&quot;你的商业模型是怎么样的收入的背后有什么故事吗&quot;&gt;你的商业模型是怎么样的？收入的背后有什么故事吗？&lt;/h1&gt;
-
-&lt;p&gt;作为一个非营利组织，我们的业务模式对我们而言比大多数公司更为重要。 作为非营利组织，我们无法接受融资，银行也不愿向我们借钱。 我们知道我们必须在Kickstarter资金用完之前迅速找到一种有收入的商业模式，并且这是从第0天开始就完全计划好的。&lt;/p&gt;
-
-&lt;p&gt;我们的想法是，我们可以创建一个具有良性循环的可持续性开源业务，如下所示：&lt;/p&gt;
-
-&lt;p&gt;1、雇用优秀的开发人员，发布受大家喜欢的开源软件。
-2、制作优秀的软件，吸引更多想要使用它的人。
-3、需要托管才能运行该软件，因此提供高级的PaaS（“平台即服务”），使之简单且价格合理。
-4、高级平台的所有收入都流向了非盈利基金会，该基金会的任务是… =&amp;gt;转到步骤1。
-5、这始终是计划。 我们不知道它在发布时是否会起作用，但是它始终是我们想要证明的模型。&lt;/p&gt;
-
-&lt;p&gt;我们做到了。
-推出11个月后，我们实现了盈利，并完全实现了自给自足。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-08-WX20191108-082438%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ghost一直保持非常稳定的有机增长率。不是指数级的, 但这是健康的，稳定的增长，对我们来说100％可以。 我们现在不再有收入目标。 我们只是要确保我们保持盈利，除此之外，我们将完全专注于我们为什么要进行所有这些工作，以及我们可以建立哪些使我们感到自豪的东西。&lt;/p&gt;
-
-&lt;p&gt;在这一点上，我永远不会再创建每月收费低于10美元的业务。&lt;/p&gt;
-
-&lt;h1 id=&quot;你未来的目标是什么打算怎么来实现它&quot;&gt;你未来的目标是什么？打算怎么来实现它？&lt;/h1&gt;
-
-&lt;p&gt;目前，我们正在大力发展新闻业并解决该领域的问题。 我们刚刚启动了一项价值45,000美元的新闻加速器计划，对此我感到无比兴奋。 它概述了我们2017年的许多计划。&lt;/p&gt;
-
-&lt;h1 id=&quot;你遇到的最大的挑战或者错误是什么&quot;&gt;你遇到的最大的挑战或者错误是什么？&lt;/h1&gt;
-
-&lt;p&gt;我们在早期犯了两个非常重大的错误。 首先是将我们的商业网站/计费平台/后端分包给由代理机构使用Ruby建立，而我们的主要语言是JavaScript。 他们建造的东西没有错，只是建造完成后……我们无法维护。&lt;/p&gt;
-
-&lt;p&gt;另一个是我们的硬件服务器。 这是在云VPS服务逐渐流行并成为主流的早期阶段，而我们处于落后的趋势。 这是一个代价高昂的错误。&lt;/p&gt;
-
-&lt;h1 id=&quot;你最大的优势是什么这对你有过什么积极作用-&quot;&gt;你最大的优势是什么？这对你有过什么积极作用 ？&lt;/h1&gt;
-
-&lt;p&gt;我们在市场上度过了一个美好的时光，在这个市场上，博客正处于复兴之中，并且是一个热门话题。 我们构建了世界上第一个主流的开源消费者Node.js应用程序（现在是最大的），这很有帮助。&lt;/p&gt;
-
-&lt;p&gt;Ghost不是革命性的想法。只是一个好主意，它源于多年的经验，并且对产品和整个行业都有非常清晰的了解。 &lt;strong&gt;特定于市场的经验可能是对任何项目的最大、最被低估的资产。&lt;/strong&gt; 很少有人谈论它。&lt;/p&gt;
-
-&lt;p&gt;在决定所有不要做的事情时，经验是最有价值的，因为你知道陷阱在哪里。你对每种市场的了解越多越好。&lt;/p&gt;
-
-&lt;h1 id=&quot;你对独立开发变现者的建议是什么&quot;&gt;你对独立开发变现者的建议是什么？&lt;/h1&gt;
-
-&lt;p&gt;老实说，我的一条建议可能就是停止寻找那么多建议。 闭上他妈的嘴，去实践一些东西。&lt;/p&gt;
-
-&lt;p&gt;我看到这么多人读创业书籍和博客文章，并不断地谈论它们。 他们试图无休止地研究和讨论有效的方法，因为他们太害怕不能真正跳进去做一些事情。&lt;/p&gt;
-
-&lt;p&gt;如果你不知道自己在做什么，那么欢迎来到社群里。 我们谁都不知道我们在干什么，而其他人则在说谎。 我们所有人都只是在猜测，尝试，不断的尝试。 我们中没有一个人在任何时候都“确定”，“准备就绪”或“自信”。 在某个时候，你只需要一只脚踏进来即可。&lt;/p&gt;
-
-&lt;p&gt;停止阅读，干就对了。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;资料：
-Github地址：https://github.com/TryGhost/Ghost
-采访: https://www.indiehackers.com/interview/how-john-onolan-grew-his-publishing-platform-to-750-000-year-14e5bac2fa
-作者博客: https://john.onolan.org&lt;/p&gt;
-&lt;/blockquote&gt;
+        <title>Build: Burst by Shopify</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;大量的精美商业图片&lt;/li&gt;
+  &lt;li&gt;方便的导航和搜索&lt;/li&gt;
+  &lt;li&gt;免费可商用&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/john/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/john/</guid>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/shopify/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/shopify/</guid>
         
         
-        <category>maker</category>
+        <category>build</category>
+        
+        <category>image</category>
         
       </item>
     
       <item>
-        <title>Maker: Flowen</title>
-        <description>
+        <title>Build: ISO Republic</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;有创造性的一些图片&lt;/li&gt;
+  &lt;li&gt;超过3000多张图片&lt;/li&gt;
+  &lt;li&gt;可免费商用&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/flowen/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/flowen/</guid>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/republic/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/republic/</guid>
         
         
-        <category>maker</category>
+        <category>build</category>
+        
+        <category>image</category>
         
       </item>
     
       <item>
-        <title>Maker: Felix Krause</title>
-        <description>
+        <title>Build: Pixabay</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;超过100多万张的照片&lt;/li&gt;
+  &lt;li&gt;照片，插画，矢量图，视频都可用&lt;/li&gt;
+  &lt;li&gt;免费可商用&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Thu, 07 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/felix/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/felix/</guid>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/pixabay/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/pixabay/</guid>
         
         
-        <category>maker</category>
+        <category>build</category>
+        
+        <category>image</category>
+        
+      </item>
+    
+      <item>
+        <title>Build: Life of Pix</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;生活类高清晰度摄影图片&lt;/li&gt;
+  &lt;li&gt;超过1千多张，包括食物、人文、艺术、纹理等&lt;/li&gt;
+  &lt;li&gt;每周增加10张新的摄影图片&lt;/li&gt;
+  &lt;li&gt;可免费商用，部分图片有限制&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/pix/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/pix/</guid>
+        
+        
+        <category>build</category>
+        
+        <category>image</category>
+        
+      </item>
+    
+      <item>
+        <title>Build: Picography</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;绚丽的，高质量免费照片&lt;/li&gt;
+  &lt;li&gt;数百张可免费商用的生活照片&lt;/li&gt;
+  &lt;li&gt;城市，文化，医院，人，街道等等类型&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
+        <link>http://localhost:4000/build/image/picography/</link>
+        <guid isPermaLink="true">http://localhost:4000/build/image/picography/</guid>
+        
+        
+        <category>build</category>
+        
+        <category>image</category>
         
       </item>
     
