@@ -3,10 +3,10 @@
   <channel>
     <title>Indie Maker Start - 让小产品的独立变现更简单</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Nov 2019 23:11:56 +0800</pubDate>
-    <lastBuildDate>Wed, 13 Nov 2019 23:11:56 +0800</lastBuildDate>
+    <link>http://www.indiemakerstart.com/</link>
+    <atom:link href="http://www.indiemakerstart.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 14 Nov 2019 14:47:35 +0800</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2019 14:47:35 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/superfamous/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/superfamous/</guid>
+        <link>http://www.indiemakerstart.com/build/image/superfamous/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/superfamous/</guid>
         
         
         <category>build</category>
@@ -36,8 +36,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/stokpic/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/stokpic/</guid>
+        <link>http://www.indiemakerstart.com/build/image/stokpic/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/stokpic/</guid>
         
         
         <category>build</category>
@@ -55,8 +55,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/startup/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/startup/</guid>
+        <link>http://www.indiemakerstart.com/build/image/startup/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/startup/</guid>
         
         
         <category>build</category>
@@ -75,8 +75,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/splitshire/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/splitshire/</guid>
+        <link>http://www.indiemakerstart.com/build/image/splitshire/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/splitshire/</guid>
         
         
         <category>build</category>
@@ -96,8 +96,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/snap/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/snap/</guid>
+        <link>http://www.indiemakerstart.com/build/image/snap/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/snap/</guid>
         
         
         <category>build</category>
@@ -115,8 +115,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/shopify/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/shopify/</guid>
+        <link>http://www.indiemakerstart.com/build/image/shopify/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/shopify/</guid>
         
         
         <category>build</category>
@@ -134,8 +134,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/republic/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/republic/</guid>
+        <link>http://www.indiemakerstart.com/build/image/republic/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/republic/</guid>
         
         
         <category>build</category>
@@ -153,8 +153,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/pixabay/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/pixabay/</guid>
+        <link>http://www.indiemakerstart.com/build/image/pixabay/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/pixabay/</guid>
         
         
         <category>build</category>
@@ -173,8 +173,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/pix/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/pix/</guid>
+        <link>http://www.indiemakerstart.com/build/image/pix/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/pix/</guid>
         
         
         <category>build</category>
@@ -192,8 +192,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/picography/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/picography/</guid>
+        <link>http://www.indiemakerstart.com/build/image/picography/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/picography/</guid>
         
         
         <category>build</category>
