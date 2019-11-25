@@ -5,9 +5,189 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 21 Nov 2019 13:30:21 +0800</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2019 13:30:21 +0800</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2019 23:25:22 +0800</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 23:25:22 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Maker: Matt Henderson</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;此文是「IndieMaker独立变现」知识星球人物志系列之第12篇
+官网：http://www.indiemakerstart.com&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Matt Henderson才21岁，他和小伙伴们计划在2018年的12个月里构建24个产品。这篇文章是Matt Henderson在2018年写的，在过去的8个月中，他们上线了8个，其中有4个获利，产生的利润超过50,000美元。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-215416%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;之前介绍的人物志基本上都是做一个产品，走的是求质量的路线。而今天这篇人物志确实采用了相反的策略，以量取胜。孰优孰劣，各有千秋，整理成文，给大家参考，相信会有一些收获。&lt;/p&gt;
+
+&lt;h1 id=&quot;团队介绍&quot;&gt;团队介绍&lt;/h1&gt;
+
+&lt;p&gt;如果稍微计算一下，到现在为止，时间过去了2/3，而我们只推出了所需产品的1/3。&lt;/p&gt;
+
+&lt;p&gt;截至撰写本文时，2018年大约还有16周的时间。这意味着我们必须在今年剩余的时间里每周发布一种产品。 虽然有点疯狂，但我们会尽全力。&lt;/p&gt;
+
+&lt;p&gt;我们认为是可以实现的，并希望尽可能透明和公开。&lt;/p&gt;
+
+&lt;p&gt;这篇文章是关于这个挑战的背后的思考，我们如何完成它以及为什么我们要这么做。&lt;/p&gt;
+
+&lt;p&gt;首先，我们将在12个月内建立24个产品。 每个“产品”的基础都是一种可获利的产品，该产品： 
+1）在第一天就可以赚钱
+2）不需要过多的内部运营&lt;/p&gt;
+
+&lt;p&gt;当我们尝试不同的业务模型时，我们只关注做订阅产品。不仅限于SaaS – 到目前为止，我们已经推出的其中一些产品是支持软件的订阅服务（也称为产品化服务）。&lt;/p&gt;
+
+&lt;p&gt;这些服务是基于软件控制的，为了扩大收入/可以服务的客户数量 - 我们需要构建更好的内部工具来优化产品。&lt;/p&gt;
+
+&lt;p&gt;我们制造的产品必须能够容易的扩展人数来增加收入，但又不增加操作的人数。&lt;/p&gt;
+
+&lt;p&gt;我们是在纽约的3人团队。 Aaron是一名全栈工程师，之前在West Vesey（为我们这些产品提供了根本的保障）工作，他是UC San Diego的已发表过论文的癌症研究人员，SF的一家公开半导体公司的销售员，然后是NYC Dev Bootcamp的学生。&lt;/p&gt;
+
+&lt;p&gt;David是来自马萨诸塞州的全栈工程师，他从大学毕业后转到了Hacker School（现在称为Recurse中心），然后在Slash Keyboard工作，直到被Giphy收购为止。&lt;/p&gt;
+
+&lt;p&gt;我是来自蒙大拿州的21岁产品设计师兼增长营销人员。 18岁那年，我一无所有搬到纽约，然后制作了一个假冒的“ Tinder for Fight”应用程序，该应用程序大受欢迎。 我和我的室友利用它来建立一个的小的代理公司，背后由Giphy创始人/CEO支持。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-221241%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3年前，我和Aaron在布鲁克林的20名企业家的大棚屋中相遇，并且从那时起就一直在合作。 去年，我们成立了一家名为Athena AI的公司，我们在其中构建了产品的原型，该产品在Google和Wikipedia上进行了爬取，以根据用户的学习历史和能力为他们量身定制个性化的课程。&lt;/p&gt;
+
+&lt;p&gt;该项目非常有野心。 在筹集了一些朋友和家人的钱并花了一年的时间之后，我们决定将其暂停，以专注于可持续的，可盈利的产品。&lt;/p&gt;
+
+&lt;h1 id=&quot;兜里只有18块钱的时候&quot;&gt;兜里只有18块钱的时候&lt;/h1&gt;
+
+&lt;p&gt;我们在2017年12月到了这条路上的尽头。我的个人银行帐户中还剩下$18.29，还能维持大约一周的生活。几天后，我们构建了一个超级简单的登录页面，连接了Stripe，并推出了一款名为Aidem Network(一键发布到多家媒体平台)的产品。&lt;/p&gt;
+
+&lt;p&gt;因为我们需要这么快地构建Aidem Network，所以我们不打算从头开始全部构建。我们在Product Hunt中进行了梳理，那些我们关注的细分市场（我们认为已经赚到了钱）中成功发布了的产品，然后模仿它们。&lt;/p&gt;
+
+&lt;p&gt;交易真的很简单：你需要支付我们49至499美元，我们会将你的产品提交到数百个SEO目录，BetaList之类的启动社区以及TechCrunch之类的媒体渠道。&lt;/p&gt;
+
+&lt;p&gt;我们在Product Hunt上推出了产品，获取了当天的热榜的第2名，并赚了1,392美元。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-225234%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们在第一个月赚了7,000多美元。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-225446%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在此之后，一年中没有任何收益地开发一种产品似乎是荒谬的。&lt;/p&gt;
+
+&lt;p&gt;“我艹，那我们每个月做两个。”&lt;/p&gt;
+
+&lt;p&gt;在推出了另一款不赚钱的产品之后，我们推出了Aidem Network的精确的支撑点，称为Howler。&lt;/p&gt;
+
+&lt;p&gt;Howler是一项简单的服务，通过将初创企业与我们约50万名媒体作者库中的明确的作者进行匹配，来帮助他们获得新闻报道（按标签分类，这些标签会根据他们之前写过的内容，在接下来的位置表明他们接下来可能写的内容，以及他们发的推文）。&lt;/p&gt;
+
+&lt;p&gt;Howler是提供全方位服务的PR解决方案：我们将你与媒体记者联系起来，帮助你撰写新闻稿，然后向他们进行全面的电子邮件宣传。 订阅起价为149美元/月。&lt;/p&gt;
+
+&lt;p&gt;我们在Product Hunt上启动发布，并在2月27日这一天的热榜排名第4。 但是，在第一天，我们只有一个订单。&lt;/p&gt;
+
+&lt;p&gt;幸运的是，订单加快了，第一个月我们达到了$3,000收入。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-230149%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们将50万个记者记录存储在Algolia，这在当时每月花费数百美元。 我们已经厌倦了花这笔钱，所以我们想出了一种方法，可以将数据本身变成一项资产，带来的收益远超过其消耗的资源。&lt;/p&gt;
+
+&lt;p&gt;我们构建了一个简单的界面来搜索所有数据，然后将用户注册和付费系统与Memberful进行了整合。 我们将其命名为Press Hunt，并于3月29日在Product Hunt上发布了它。 当天我们排名热榜第5，赚了136美元。&lt;/p&gt;
+
+&lt;p&gt;但是，当我们发布Press Hunt时，我们将其冠以“ Press Hunt by Howler”的商标，在一天之内就将90多个潜在客户发送给Howler。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-230601%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这使Howler的月收入达到了697美元。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-230653%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;到月末，Press Hunt的收入约为1400美元，比我们最初尝试补贴的Algolia托管费用高得多。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-21-WX20191121-230856%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;从那以后，我们开发了更多产品（包括这些产品的大量更新），但是你要知道：我们构建的每个产品都是最小的，可盈利的，基于软件的，并且是我们之前构建的产品的补充。&lt;/p&gt;
+
+&lt;p&gt;当我们做Athena这个产品的时候，筹款至关重要。 如果我们筹集的资金不足，我们就会死掉，而获利可能要过几年。&lt;/p&gt;
+
+&lt;p&gt;依赖外部资源会激发不良行为。不是为了尽快发布产品，而是为了能在短期内生存以夸大产品的目的来迎合投资者。 投资者似乎比实际销售你的产品更快捷地套现。&lt;/p&gt;
+
+&lt;p&gt;这个游戏规则本质上没有错。 但是，如果你没有足够的个人资源，那么就是在玩一场失败的游戏。&lt;/p&gt;
+
+&lt;p&gt;你的动机是通过VC最大化现金，而VC的动机是使投资风险最小化。 一家破产的创业公司创始人并没有为自己建立坚实的财务基础，并且无处可走，这并不是一笔低风险的投资。&lt;/p&gt;
+
+&lt;p&gt;媒体关于企业家精神的叙述是“创始人仅靠拉面生存数年，然后突然成为亿万富翁”，这具有欺骗性。这些创始人不是因为负担不起才吃拉面，他们吃拉面是因为他们想能更快速的前进。&lt;/p&gt;
+
+&lt;p&gt;“吃拉面的创业者”不是贫穷的例子，而是有纪律的支出。&lt;/p&gt;
+
+&lt;h1 id=&quot;特定市场x技术专注&quot;&gt;特定市场x技术专注&lt;/h1&gt;
+
+&lt;p&gt;无论如何，我们意识到我们没有能力赢得我们正在玩的游戏，所以我们改变了游戏。&lt;/p&gt;
+
+&lt;p&gt;我们决定只专注于最大限度地提高收入，而不是将我们的生命奉献给一种产品。&lt;/p&gt;
+
+&lt;p&gt;为了使我们的收入最大化，我们需要使人们所购买的商品的数量最大化。&lt;/p&gt;
+
+&lt;p&gt;显然，在市场上赚钱最快的方法是将您的时间出售给打折。但是卖出时间获得现金是一个糟糕的套利。&lt;/p&gt;
+
+&lt;p&gt;你的时间有限，因此你应该将其花费在具有长期回报的事情上。最终，资产会增加并让你有更多的独立性。&lt;/p&gt;
+
+&lt;p&gt;换句话说，花费50个小时建立$5k的MRR业务比以$100/小时的价格出售开发服务更好，产品将一直给予你回报收入。如果出售时间给别人开发软件，那么在5千美元用完时，你就需要再出售50个小时才能获得更多。&lt;/p&gt;
+
+&lt;p&gt;我们宁愿将时间花在长期回报这件事情上，也不愿将时间花在依赖出售我们自己时间获取短期回报。因此，我们为设定了规则，并发誓只投资我们的时间，绝不出售它。&lt;/p&gt;
+
+&lt;p&gt;设定12个月内24个产品的目标迫使我们进入特定的情况。&lt;/p&gt;
+
+&lt;p&gt;我们不能浪费时间使我们的产品完美。我们无法发布依赖时间的产品（因为我们没有足够的时间一次有效地运营24个产品）。我们偏向于（相对）低风险，高回报的产品。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“但是质量与数量呢？”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我们待在我们的能力圈内。 这不仅意味着我们只生产某种产品，而且只销售一个市场。 我们所有的产品都是
+1）技术上相似（或至少互补），
+2）同一类人使用。&lt;/p&gt;
+
+&lt;p&gt;我们生产的产品可以帮助其他人生产，销售和发展自己的产品，而不是在构建消费产品或社交网络。&lt;/p&gt;
+
+&lt;p&gt;我们正在为像我们这样的人生产产品。 这使我们更清楚地了解了最小可行的方法和较低的错误率。&lt;/p&gt;
+
+&lt;p&gt;以市场为中心使我们的增长产生组合效应。 在我们的一位用户通过Investor Hunt募集资金后，他们可能希望通过Howler与数百名记者分享消息。&lt;/p&gt;
+
+&lt;p&gt;这也意味着我们所有的产品都有相同的分销渠道。 学习如何在一个渠道中发展，或在另一个渠道中建立我们的声誉，对于我们推出的每种产品都有复合的回报。&lt;/p&gt;
+
+&lt;p&gt;技术专注也使我们的工程工作产生组合效应。 通常，当我们构建一项新功能时，便能够将其集成到我们所有其他产品中。 或者，在构建一个产品时，我们必须要构建一组可以单独启动的功能（例如，Press Hunt）。&lt;/p&gt;
+
+&lt;p&gt;本质上，我们的假设是，我们的市场聚焦将使我们能够在保持短期成本的同时实现自然增长。 我们的技术重点将使我们生产的产品越多，产品的质量就会越高。&lt;/p&gt;
+
+&lt;p&gt;换句话说：我们生产的产品越多，它们就会越好，并且会有更多的人购买。&lt;/p&gt;
+
+&lt;p&gt;当我告诉人们这一挑战以及到目前为止我们的某些产品已经赚了多少钱时，他们就会问：“为什么不做一个挑战，直到有什么可行的方法，然后再继续努力下去？您知道，就像&lt;a href=&quot;http://www.indiemakerstart.com/maker/levelsio/&quot;&gt;Pieter Levels&lt;/a&gt;所做的那样。您可以从$5k MRR增长到$ 50k MRR。”&lt;/p&gt;
+
+&lt;p&gt;到目前为止，我们推出的大多数成功产品在经历低迷之前，都会经历长达几个月的有机增长。 如果我们将大量资源投入到一种产品的长期可持续增长中，我们认为我们将能够将其发展成为更大的5位数MRR业务。&lt;/p&gt;
+
+&lt;p&gt;有几个原因导致我们现在不那么激进：&lt;/p&gt;
+
+&lt;p&gt;1、通过这一挑战，我们正在建立（某种程度上）多元化的收入来源，以在我们想摆脱困境并全力投入一种产品时为我们奠定基础。就我们当前的月收入，这还是一个负担。 而且，根据我们到目前为止的努力，时间上来说：发布期间/之后的现金回报高得多。这并不是说为了获得更大的机会，更稳定的业务而花掉短期现金是没有意义的 - 只是目前意义不大。&lt;/p&gt;
+
+&lt;p&gt;2、工程即营销是我们尝试过的最可持续的增长形式之一。要构建一个简单的产品来补充我们已经生产的另一种产品，就需要强大的执行力 - 正是这12到24的挑战在帮助我们发展。 因此，在应对这一挑战的过程中，我们将更好地定位自己，以便在不久的将来做到这一点。&lt;/p&gt;
+
+&lt;p&gt;3、挑战的目的不是把我们的生命花费在这样一个好的想法上，而是要变得更擅长以可持续方式构建和发布产品。&lt;/p&gt;
+
+&lt;p&gt;4、剩下的挑战几乎是不可能的-在16周内推出16种产品，这对我们来说真的很令人兴奋。这个过程也会非常的好玩。&lt;/p&gt;
+
+&lt;p&gt;5、我们必须为2019完成更多不可能的挑战留出空间。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2019-11-22-WX20191122-102426.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;参考:
+https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Mon, 25 Nov 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/maker/matt/</link>
+        <guid isPermaLink="true">http://localhost:4000/maker/matt/</guid>
+        
+        
+        <category>maker</category>
+        
+      </item>
     
       <item>
         <title>Build: Superfamous</title>
@@ -175,25 +355,6 @@
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
         <link>http://localhost:4000/build/image/pix/</link>
         <guid isPermaLink="true">http://localhost:4000/build/image/pix/</guid>
-        
-        
-        <category>build</category>
-        
-        <category>image</category>
-        
-      </item>
-    
-      <item>
-        <title>Build: Picography</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;绚丽的，高质量免费照片&lt;/li&gt;
-  &lt;li&gt;数百张可免费商用的生活照片&lt;/li&gt;
-  &lt;li&gt;城市，文化，医院，人，街道等等类型&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/picography/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/picography/</guid>
         
         
         <category>build</category>
