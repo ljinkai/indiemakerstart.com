@@ -3,11 +3,182 @@
   <channel>
     <title>Indie Maker Start - 让小产品的独立变现更简单</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Dec 2019 19:35:33 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Dec 2019 19:35:33 +0800</lastBuildDate>
+    <link>http://www.indiemakerstart.com/</link>
+    <atom:link href="http://www.indiemakerstart.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 13 Feb 2020 09:56:39 +0800</pubDate>
+    <lastBuildDate>Thu, 13 Feb 2020 09:56:39 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Maker: Rodolphe Dutel</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;此文是「IndieMaker独立变现」知识星球人物志系列之第14篇
+官网：http://www.indiemakerstart.com&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;之前给大家介绍的独立变现者几乎都是技术背景的，今天介绍的这一位是一名设计师，一名非技术人是如何将产品从0开始构建，并做到现月收入1.2万美金呢？带着这个疑问，开启我们今天的人物介绍。&lt;/p&gt;
+
+&lt;p&gt;Rodolphe Dutel，法国人，31岁，remotive.io的创始人。一个喜欢撸猫的男人。从简单的写博客开始，一边工作，一边做着自己喜欢的产品，最后把副业做成了自己的主业，相信这是很多独立变现者的路径。Rodolphe的路如果重新走一边的话，不一定就能成功。从这个人物经历中，我们至少能够坚信一点，即便不会技术，也是可以将一个产品做成，并且是赚钱的，不会技术的同学一定要坚信这一点，在一个完整的产品面前，技术往往是次要的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2020-01-15-Sans-titre-1.jpg?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;你好你的背景是什么在做什么&quot;&gt;你好！你的背景是什么，在做什么？&lt;/h1&gt;
+
+&lt;p&gt;嗨！我是Remotive的创始人Rodolphe。我们帮助技术人员找到远程类的工作。&lt;/p&gt;
+
+&lt;p&gt;我不是典型的独立创造者；我不会写代码，也不会构建SaaS :)。但是我能在这里跟大家分享，是因为我把一个业余项目做成了全职项目。&lt;/p&gt;
+
+&lt;p&gt;我今年31岁，住在法国巴黎。我很幸运的是刚大学毕业就加入了Google。我的大多数同事都在从事与广告相关产品相关的工作。主要是将Gmail卖给一些公司。对我一直有触动的话就是：“现在技术的发展程度足以让人们在任何地方工作！”这真的让我内心产生了强烈的共鸣。&lt;/p&gt;
+
+&lt;p&gt;工作几年后，我发现了Buffer，这是一个每个人都可以远程工作的创业公司。我喜欢他们的态度和氛围。最终我成为他们的运营总监，帮助Buffer招聘并一起成长。有的朋友经常会问我：“你是如何找到一份不错的远程工作的？我们如何也能做到这样的事情？”我在2014年开始做Remotive，用实际行动来回答这个问题。&lt;/p&gt;
+
+&lt;h1 id=&quot;是什么促使你开始的remotiveio&quot;&gt;是什么促使你开始的Remotive.io？&lt;/h1&gt;
+
+&lt;p&gt;我喜欢业余项目。我尝试过很多，像Tumblrs，订阅，博客，创业周末……我以前的那些项目都没有吸引人到人，但是每个项目我都学到了很多。&lt;/p&gt;
+
+&lt;p&gt;2014年，我决定用行动来验证自己的设想，我的朋友们一直在问如何找到一份不错的远程工作。那时我已经有了丰富的经验，很多东西也能容易的表达出来。于是我就开始写博客。我的同事在社交媒体上分享了该帖子。时机也很巧，由于NomadList几个月前问世，所以很多人对远程工作感到好奇。但是，以前不是很多人关注远程工作。我的文章在Medium上广为传播，因此我添加了一个免费的MailChimp表格并收集了100多个电子邮件。一个月后，我在Product Hunt上发布了Remotive，作为“远程工作订阅”，在发布的当天就排名了第一！&lt;/p&gt;
+
+&lt;p&gt;这些是我在Buffer工作时做的。（我当时的年薪超过10万美元。）值得一提的是，因为我喜欢我在Buffer的工作，并没有主动辞职。在平衡工作和业余项目这个过程，持续了大约有2年的时间。&lt;/p&gt;
+
+&lt;p&gt;回头看的话，Remotive吸引了很多人关注，但并没有爆发式增长，这是一个渐进的过程。此外，我工作的收入足以使我不需要Remotive来赚钱。开始时的时候，我并没有想很多，只是觉得Remotive是自己喜欢的一个副业。&lt;/p&gt;
+
+&lt;h1 id=&quot;最开始做产品的过程是什么&quot;&gt;最开始做产品的过程是什么？&lt;/h1&gt;
+
+&lt;p&gt;我的最小化原型验证是在Medium上发帖子，我就是从写文章开始的。写作是一个多逐步的过程。我邀请5至10个值得信任的人帮我查看草稿。如果自己心情不错，就会花点时间选择最合适的标题和插图。每篇文章花了我一两天的时间。有些文章效果不错，有些就很差。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2020-01-14-WX20200114-234230%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;在头两年中，我唯一要做的就是编写远程工作相关的文章。我的朋友Jeremy Benaim为该项目创建了一个着落页面。它显示了图片并增加电子邮件订阅。就这样差不多持续了两年。&lt;/p&gt;
+
+&lt;p&gt;那时，我每周做一次订阅推送。一切都收集在Feely和Pocket中。我在周日手工制作，并在周一与Curated.co一起发送。整个事情我一周要花两个小时，每个月要花100美元。其余所有时间（管理员，电子邮件）每周还要花两个小时。&lt;/p&gt;
+
+&lt;p&gt;我有一份全职工作和生活，所以每周半天是我可以花在这个项目上的最多时间。大多数时候，这很有趣。有时候，我真的不想发送推送，因为生活里总是会有变化。不过，我坚持了下来，在过去五年中可能只错过了一两次。&lt;/p&gt;
+
+&lt;p&gt;渐渐地，我在项目中添加了一些新的功能。这些年来，它增长并不快。一路上有很多人在反馈，在很多方面帮助了我：Buffer的Joel Gascoigne和Leo Widrich，Brian Lovin，Hiten Shah以及其他一些人。&lt;/p&gt;
+
+&lt;p&gt;我们所有的用户增长都是通过口碑传播。大约三年的时间内，我们的用户从0增加到25,000：&lt;/p&gt;
+
+&lt;p&gt;1、没有广告，我们主要依靠社交媒体。在Buffer工作使我了解了很多关于在社交媒体上的知识。此外，Buffer和其员工也经常推荐Remotive。
+2、我们最初的增长策略是“专注在Product Hunt上”。这很有效，多年来，我们在Pducnt Hunt上发布了五次，2014年的发布比2019年的发布要容易得多。Reddit上效果不好，Hacker News还不错。&lt;/p&gt;
+
+&lt;p&gt;3、真诚。人们可以看到Remotive是我在构建的一个订阅服务。我从用户那里得到了大量帮助，人们也愿意分享和转发。&lt;/p&gt;
+
+&lt;p&gt;4、后来，我们通过电子表格的方式使用户得到了增长。创建一个共享的电子表格（我们希望如此）将会病毒式传播。我们创建了数十个，其中一些在三年后仍然表现良好。我的理由是，数据为王，人们希望直接访问数据。因此，让他们拥有电子表格！&lt;/p&gt;
+
+&lt;p&gt;5、内容。今天，我们专注于内容。我写博客，但我们也做漫画，我在社交媒体上分享东西。 Remotive的Twitter拥有16,000个关注者，我们在LinkedIn上的影响力也在提升。我们尝试了一些市场营销，但收效甚微。这些东西通常非常耗时。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2020-01-14-WX20200114-235841%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;你的业务模式是什么如何增加收入&quot;&gt;你的业​​务模式是什么，如何增加收入？&lt;/h1&gt;
+
+&lt;p&gt;这是一个更好地了解Remotive的时间表：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2014年至2016年：Remotive是业余项目，我全职工作。 Remotive赚了很少的钱（推出订阅广告和工作展示面板）。&lt;/li&gt;
+  &lt;li&gt;2017-2018年：Remotive是业余项目。年收入约为$60k（推出社区）&lt;/li&gt;
+  &lt;li&gt;2019年至今：在Remotive全职工作，获得报酬！ 💰CTO兼职。 （成立公司）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2016年底，我意识到我可以通过Remotive以及咨询和服务费，在2017年赚到5万美元。这些钱够养活自己了，于是我辞掉全职工作。&lt;/p&gt;
+
+&lt;p&gt;我采用多元化的收益方法建立了Remotive。正如Nassim Taleb所说，韧性和“反脆弱性”在该项目中至关重要。没有任何一个客户是绝对稳定的，我们不要以此为赌注。我的目标是要有独立的收入来源和客户。如果项目的一部分崩溃，则项目的其他部分应该接管。如今，几乎所有付款都通过Stripe进行，并且我们拥有自己的内置发票工具。&lt;/p&gt;
+
+&lt;p&gt;2014至2019的收入情况：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2020-01-14-WX20200115-000228%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这是目前为止Remotive赚钱的方式：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;订阅内广告：我们向企业收取850美元，将广告推送给2万名远程工作者。我们审核广告客户，每个电子邮件只有一个广告，每月只有两个订阅推送。&lt;/li&gt;
+  &lt;li&gt;求职公告板：远程初创公司与我们一起投放求职广告，为期30天支付299-448美元。这是我们的主要收入来源。&lt;/li&gt;
+  &lt;li&gt;社区：我们的Slack社区是远程工作者的虚拟合作空间。目前有1300多个成员。终身访问价格为149美元/年或99美元/年&lt;/li&gt;
+  &lt;li&gt;公司：我们提供远程雇主品牌服务，促进远程创业。套餐的起价为799美元/月。随时查询;）&lt;/li&gt;
+  &lt;li&gt;领导力：私有对话，与远程团队的领导者进行交流和共享。批准的申请人每月支付$25或每年$250。&lt;/li&gt;
+  &lt;li&gt;杂项：开启或关闭特殊交易，例如展示交易，课程，合作伙伴关系等。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;总体而言，花费在可控之中。请兼职人员来做运营中是我们这一年中最好的决定！这样，我可以专注于增长和新业务。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://qiniu.gafata.com/2020-01-14-WX20200115-000546%402x.png?imageView2/2/w/600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;你未来的目标是什么&quot;&gt;你未来的目标是什么？&lt;/h1&gt;
+
+&lt;p&gt;到2019年，Remotive是为了满足我的一种生活方式而服务。我唯一的目标是赚够钱，以便我有更多的空闲时间，蒂姆·费里斯&lt;a href=&quot;#&quot;&gt;Tim Ferriss&lt;/a&gt;(https://tim.blog/about/)风格就是我向往的生活方式。例如，我在2017-2018年间花了一年半的时间写一本法文小说。这太棒了。我足够养活自己，只需要每周花10个小时在Remotive。&lt;/p&gt;
+
+&lt;p&gt;有几个人给我发送电子邮件，说Remotive帮助他们找到了一份远程工作，这对他们来说是改变人生的时刻。听到有人说他们将有更多的家庭时间和可支配收入，这真是令人高兴！&lt;/p&gt;
+
+&lt;p&gt;在2019年，这一切都改变了，Remotive成为了一家真正的公司。我和我的CTO从头开始重新构建了这一切。今天，我们的目标是发布最好的远程工作。这就是为什么我们亲手挑选最好的远程工作来推荐。我们看好在线远程社区和远程招聘。我们将在2020年执行此操作。另外，我们需要改善SEO。我们收到了来自今年有兴趣收购Remotive的人们的十多封电子邮件，但我们并没有回复，我们要专注于执行。&lt;/p&gt;
+
+&lt;p&gt;除此之外，我们很乐意针对中小型企业构建一个SaaS，以帮助其招募。我们知道，由于我们要应对竞争激烈且有限的市场，因此目前的服务可能会在一年左右的时间内达到天花板。考虑到我们现在的储备，我觉得现在该是基于SaaS的时候了：)&lt;/p&gt;
+
+&lt;h1 id=&quot;如果你必须重新开始你会做些什么&quot;&gt;如果你必须重新开始，你会做些什么？&lt;/h1&gt;
+
+&lt;p&gt;在2020年，远程工作是一个竞争激烈的市场。大量的人在争夺很少的高质量远程工作。超过二十个工作委员会正在争取约3,000家公司雇用的远程工作者。我不建议你在没有很大差异竞争的情况下进入这个市场。我们如果没有多种收入来源，我们早就已经倒闭了！&lt;/p&gt;
+
+&lt;p&gt;比如：在2020年，我不会在Slack社区上建立整个业务。我会在这里分享了更多有关从事远程工作的初创公司的信息。&lt;/p&gt;
+
+&lt;p&gt;从收入的角度来看，我很喜欢SaaS。我们只有20％的业务是经常性业务，其余业务是可以预测的，但每个月都会有所波动。我一直在问自己的另一个问题是：“如果我停止工作，会发生什么？”我并不总是确定额外的努力会带来更多收入。&lt;/p&gt;
+
+&lt;p&gt;我也在考虑自己的未来。选择独立创造者方式意味着我尽量不要将自己与疯狂筹集资金的团队进行比较。Remotive没有融资的压力。我们主要是面向一些小型的公司，对他们提供帮助，这就足够了。&lt;/p&gt;
+
+&lt;h1 id=&quot;你是否发现任何特别有用或有利的东西&quot;&gt;你是否发现任何特别有用或有利的东西？&lt;/h1&gt;
+
+&lt;p&gt;是!我是Derek Sivers的粉丝。他曾经写道：“也许对你而言很简单的东西，对其他人来说却是很神奇的。”这句话很简单，让我一直能保持初心。&lt;/p&gt;
+
+&lt;p&gt;利用杠杆作用很重要（知识，网络，资本，技术）。比如：Naval有关“How to get Rich” (https://twitter.com/naval/status/1002103360646823936)”的推文就是一个类似杠杆的支点，吸引了很多人关注和转发。&lt;/p&gt;
+
+&lt;h1 id=&quot;你对刚起步的独立变现者有何建议&quot;&gt;你对刚起步的独立变现者有何建议？&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;知道你的熔点。 🔥&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;意思是，知道你的生活成本是多少。如果你不知道自己需要多少的成本，就不太可能继续下去。掌握财务状况是关键。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;早期获利。 💵&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我错过了几次获利的机会，因为那是我还不够成熟，觉得跟用户要钱心理会不舒服。如果可以的话，尽早获利！&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;先付钱🤑&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;你可能想购买广告或获得可靠的SaaS服务。如果不能自己​​付钱，那就不要做！可以尝试一些变通的方法。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;把最好的时光浪费在自己身上 ⏰&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我将最美好的时光投入到我最喜欢的项目中。我是一个早起的人，所以我在上班之前先从事我的项目。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;有选择地合作。 💪&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;寻找其他具有相同志向和时间投入的项目工作的人，与团队一起去做会很有趣。将自己与筹集了4000万美元的团队进行比较，不要有压力。他们有老板的监督压力，而你没有。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;给一些奖励庆祝。 🎉&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;作为独立变现者赚了第一个$1k？可以去饭馆好好吃一顿，每一次的进步给自己一些鼓励。 你不知道明天会带来什么：如果可以，请善待自己。让你的这趟旅程变得特别:)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;资料：
+采访: https://www.indiehackers.com/interview/bootstrapping-to-12-000-mo-as-a-non-technical-founder-d635b7619b
+作者博客: https://blog.remotive.io/2019-year-in-review/&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 13 Feb 2020 00:00:00 +0800</pubDate>
+        <link>http://www.indiemakerstart.com/maker/rodolphe/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/rodolphe/</guid>
+        
+        
+        <category>maker</category>
+        
+      </item>
     
       <item>
         <title>Maker: Stephen Cognetta</title>
@@ -134,8 +305,8 @@
 
 </description>
         <pubDate>Wed, 25 Dec 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/stephen/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/stephen/</guid>
+        <link>http://www.indiemakerstart.com/maker/stephen/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/stephen/</guid>
         
         
         <category>maker</category>
@@ -314,8 +485,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 25 Nov 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/maker/matt/</link>
-        <guid isPermaLink="true">http://localhost:4000/maker/matt/</guid>
+        <link>http://www.indiemakerstart.com/maker/matt/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/maker/matt/</guid>
         
         
         <category>maker</category>
@@ -330,8 +501,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/superfamous/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/superfamous/</guid>
+        <link>http://www.indiemakerstart.com/build/image/superfamous/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/superfamous/</guid>
         
         
         <category>build</category>
@@ -349,8 +520,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/stokpic/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/stokpic/</guid>
+        <link>http://www.indiemakerstart.com/build/image/stokpic/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/stokpic/</guid>
         
         
         <category>build</category>
@@ -368,8 +539,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/startup/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/startup/</guid>
+        <link>http://www.indiemakerstart.com/build/image/startup/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/startup/</guid>
         
         
         <category>build</category>
@@ -388,8 +559,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/splitshire/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/splitshire/</guid>
+        <link>http://www.indiemakerstart.com/build/image/splitshire/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/splitshire/</guid>
         
         
         <category>build</category>
@@ -409,8 +580,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/snap/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/snap/</guid>
+        <link>http://www.indiemakerstart.com/build/image/snap/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/snap/</guid>
         
         
         <category>build</category>
@@ -428,8 +599,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/shopify/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/shopify/</guid>
+        <link>http://www.indiemakerstart.com/build/image/shopify/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/shopify/</guid>
         
         
         <category>build</category>
@@ -447,27 +618,8 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/republic/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/republic/</guid>
-        
-        
-        <category>build</category>
-        
-        <category>image</category>
-        
-      </item>
-    
-      <item>
-        <title>Build: Pixabay</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;超过100多万张的照片&lt;/li&gt;
-  &lt;li&gt;照片，插画，矢量图，视频都可用&lt;/li&gt;
-  &lt;li&gt;免费可商用&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://localhost:4000/build/image/pixabay/</link>
-        <guid isPermaLink="true">http://localhost:4000/build/image/pixabay/</guid>
+        <link>http://www.indiemakerstart.com/build/image/republic/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/republic/</guid>
         
         
         <category>build</category>
