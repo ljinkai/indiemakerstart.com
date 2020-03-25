@@ -5,9 +5,60 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://www.indiemakerstart.com/</link>
     <atom:link href="http://www.indiemakerstart.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Feb 2020 09:56:39 +0800</pubDate>
-    <lastBuildDate>Thu, 13 Feb 2020 09:56:39 +0800</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2020 18:47:07 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2020 18:47:07 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Build: Hatchful</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;免费制作Logo&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 25 Mar 2020 16:50:36 +0800</pubDate>
+        <link>http://www.indiemakerstart.com/build/logo/hatchful/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/logo/hatchful/</guid>
+        
+        
+        <category>build</category>
+        
+        <category>logo</category>
+        
+      </item>
+    
+      <item>
+        <title>Build: Color Eva Design</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;可以多种颜色匹配&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2020 16:50:36 +0800</pubDate>
+        <link>http://www.indiemakerstart.com/build/color/colorseva/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/color/colorseva/</guid>
+        
+        
+        <category>build</category>
+        
+        <category>color</category>
+        
+      </item>
+    
+      <item>
+        <title>Build: Colorsandfonts</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;颜色搭配&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2020 16:50:36 +0800</pubDate>
+        <link>http://www.indiemakerstart.com/build/color/colorsandfonts/</link>
+        <guid isPermaLink="true">http://www.indiemakerstart.com/build/color/colorsandfonts/</guid>
+        
+        
+        <category>build</category>
+        
+        <category>color</category>
+        
+      </item>
     
       <item>
         <title>Maker: Rodolphe Dutel</title>
@@ -561,65 +612,6 @@ https://www.westvesey.com/why-were-building-24-businesses-in-12-months&lt;/p&gt;
         <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
         <link>http://www.indiemakerstart.com/build/image/splitshire/</link>
         <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/splitshire/</guid>
-        
-        
-        <category>build</category>
-        
-        <category>image</category>
-        
-      </item>
-    
-      <item>
-        <title>Build: Stock Snap</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;每周更新数百张高质量摄影图片&lt;/li&gt;
-  &lt;li&gt;类似图片的推荐&lt;/li&gt;
-  &lt;li&gt;强大的搜索工具&lt;/li&gt;
-  &lt;li&gt;可按日期，流行，查看数，下载，喜欢等查询&lt;/li&gt;
-  &lt;li&gt;商业免费可用&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/build/image/snap/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/snap/</guid>
-        
-        
-        <category>build</category>
-        
-        <category>image</category>
-        
-      </item>
-    
-      <item>
-        <title>Build: Burst by Shopify</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;大量的精美商业图片&lt;/li&gt;
-  &lt;li&gt;方便的导航和搜索&lt;/li&gt;
-  &lt;li&gt;免费可商用&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/build/image/shopify/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/shopify/</guid>
-        
-        
-        <category>build</category>
-        
-        <category>image</category>
-        
-      </item>
-    
-      <item>
-        <title>Build: ISO Republic</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;有创造性的一些图片&lt;/li&gt;
-  &lt;li&gt;超过3000多张图片&lt;/li&gt;
-  &lt;li&gt;可免费商用&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 13 Nov 2019 16:50:36 +0800</pubDate>
-        <link>http://www.indiemakerstart.com/build/image/republic/</link>
-        <guid isPermaLink="true">http://www.indiemakerstart.com/build/image/republic/</guid>
         
         
         <category>build</category>
